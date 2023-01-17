@@ -2106,15 +2106,15 @@ collections:
             label: Link
             name: 2101c243
             widget: string
+          - hint: 'Original link: /forms/contacto, key: -715203e2'
+            label: Link
+            name: '-715203e2'
+            widget: string
           - hint: >-
               Original link: https://meetings.hubspot.com/katherine-lizarazo,
               key: 4eb0bf58
             label: Link
             name: 4eb0bf58
-            widget: string
-          - hint: 'Original link: /forms/contacto, key: -715203e2'
-            label: Link
-            name: '-715203e2'
             widget: string
           - hint: 'Original link: #, key: 23'
             label: Link
