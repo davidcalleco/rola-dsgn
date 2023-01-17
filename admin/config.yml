@@ -2048,12 +2048,17 @@ collections:
             label: Text
             name: 2268ff
             widget: string
-          - hint: >-
-              Original text: ¿TIENES UN PROYECTO EN MENTE? NOS ENCANTARÍA SABER
-              sobre ti., key: -39d68d3
+          - hint: 'Original text: ¿TIENES UN PROYECTO EN MENTE?, key: 65cb1f86'
             label: Text
-            name: '-39d68d3'
+            name: 65cb1f86
             widget: string
+          - hint: >-
+              Original text: Déjanos tus datos y nos pondremos en contacto
+              contigo para conocer tus necesidades y ofrecerte la información
+              que buscas., key: 326279f9
+            label: Text
+            name: 326279f9
+            widget: text
           - hint: 'Original text: hola@roladsgn.com, key: -7ea0341'
             label: Text
             name: '-7ea0341'
@@ -2063,20 +2068,20 @@ collections:
             name: '-35c4b60d'
             widget: string
           - hint: >-
-              Original text: Cuentanos un poco más sobre tu proyecto., key:
-              1dcad9d6
+              Original text: Cuéntanos un poco más sobre tu proyecto., key:
+              4c639bd2
             label: Text
-            name: 1dcad9d6
+            name: 4c639bd2
             widget: string
           - hint: 'Original text: ¡Gracias!, key: 482e04b4'
             label: Text
             name: 482e04b4
             widget: string
           - hint: >-
-              Original text: nos pondremos en conctacto contigo muy pronto.,
-              key: 41e52ba0
+              Original text: nos pondremos en contacto contigo muy pronto., key:
+              -4646af3d
             label: Text
-            name: 41e52ba0
+            name: '-4646af3d'
             widget: string
       - label: Links
         name: links
