@@ -306,18 +306,18 @@ collections:
             widget: string
           - hint: >-
               Original text: Sin importar el plan al que te hayas inscrito
-              podrás solicitar todos los diseños que necesties. , key: 2f476ae0
+              podrás solicitar todos los diseños que necesites. , key: 1d1d1e96
             label: Text
-            name: 2f476ae0
+            name: 1d1d1e96
             widget: text
           - hint: >-
               Original text: Nuestro project manager será el puente entre
               nuestros diseñadores y tú. Te apoyará en planear, organizar y
               priorizar tus proyectos. Si necesitas más diseños, podrás
-              agregarlos a la cola de proyectos en culquier momento. , key:
-              4a6f35d5
+              agregarlos a la cola de proyectos en cualquier momento. , key:
+              1f38c65a
             label: Text
-            name: 4a6f35d5
+            name: 1f38c65a
             widget: text
           - hint: 'Original text: 03, key: 603'
             label: Text
@@ -982,12 +982,11 @@ collections:
           - hint: >-
               Original text: Con Rola Design, tienes acceso a un equipo de
               diseñadores con experiecia en diversas especialidades. Nos hacemos
-              cargo de todas sus solicitudes y trabajamos en ellas una tras
-              otra, mientras que su gerente de proyecto supervisa todo y se
-              asegura de que la persona adecuada haga el trabajo., key:
-              -6bd9f30e
+              cargo de todas tus solicitudes y trabajamos en ellas una tras
+              otra, mientras que tu gerente de proyecto supervisa todo y se
+              asegura de que la persona adecuada haga el trabajo., key: 4c799070
             label: Text
-            name: '-6bd9f30e'
+            name: 4c799070
             widget: text
           - hint: >-
               Original text: ¿Qué significa cuando hablan de piezas ilimitadas,
@@ -1176,10 +1175,10 @@ collections:
               áreas. Adicional, te liberas de los riesgos y la carga que implica
               contratar un freelance. Con nuestro modelo, puedes pausar y
               reanudar tu suscripción con la frecuencia que necesites para
-              asegurarse de que solo nos pagas cuando tiene trabajo disponible.,
-              key: 738c182b
+              asegurarse de que solo nos pagas cuando tienes trabajo
+              disponible., key: 38b99fac
             label: Text
-            name: 738c182b
+            name: 38b99fac
             widget: text
           - hint: 'Original text: estudio de diseño., key: 5db2277f'
             label: Text
