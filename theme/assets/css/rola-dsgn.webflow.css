@@ -2784,6 +2784,10 @@ figcaption {
   height: 100%;
 }
 
+.tp {
+  display: none;
+}
+
 @media screen and (max-width: 991px) {
   h1 {
     font-size: 5rem;
@@ -3711,6 +3715,10 @@ figcaption {
     grid-row-gap: 3rem;
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
+  }
+
+  .tp {
+    display: block;
   }
 }
 

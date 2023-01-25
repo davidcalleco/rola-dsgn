@@ -226,10 +226,10 @@ collections:
           - hint: >-
               Original text: Nuestro modelo mensual All Inclusive y planes de
               precio por pieza de Rola Design, garantizan una alta eficiencia y
-              productividad, que le permitirá ahorrar costos y tiempos de
-              producción., key: 44b0fbb0
+              productividad, que te permitirá ahorrar costos y tiempos de
+              producción., key: -4c8a3158
             label: Text
-            name: 44b0fbb0
+            name: '-4c8a3158'
             widget: text
           - hint: 'Original text: entregas rápidas y de alta calidad, key: 6091285'
             label: Text
@@ -238,22 +238,22 @@ collections:
           - hint: >-
               Original text: Nuestros procesos están probados y nuestros
               colaboradores están preparados para iniciar y entregar proyectos
-              de diseño súper rápido. , key: 285e1873
+              de diseño súper rápido., key: 5c24114d
             label: Text
-            name: '285e1873'
+            name: 5c24114d
             widget: text
           - hint: 'Original text: Equipo de diseño dedicado, key: 1790d73c'
             label: Text
             name: 1790d73c
             widget: string
           - hint: >-
-              Original text: Al suscribirse a cualquiera de nuestros planes de
-              suscripción, obtendrá acceso a un equipo creativo dedicado, que
+              Original text: Al suscribirte a cualquiera de nuestros planes de
+              suscripción, obtendrás acceso a un equipo creativo dedicado, que
               incluye un gerente de proyecto, un director de diseño y un equipo
               modular de creativos para satisfacer las necesidades únicas de sus
-              proyectos., key: 5fc2faef
+              proyectos., key: -3f736cc1
             label: Text
-            name: 5fc2faef
+            name: '-3f736cc1'
             widget: text
           - hint: 'Original text: ¿cómo funciona?, key: 1fda3433'
             label: Text
@@ -278,12 +278,12 @@ collections:
             name: f02582d
             widget: string
           - hint: >-
-              Original text: De acuerdo a tu necesidad, podrás contratar
+              Original text: De acuerdo con tu necesidad, podrás contratar
               nuestros servicios, ya sea por piezas individuales de diseño o
               plan de piezas ilimitadas (si requieres múltiples piezas)., key:
-              1e2bd1c4
+              70d82c3
             label: Text
-            name: 1e2bd1c4
+            name: 70d82c3
             widget: text
           - hint: >-
               Original text: Consulta con nosotros el plan que mejor se ajuste a
@@ -305,18 +305,19 @@ collections:
             name: '-5a97db8a'
             widget: string
           - hint: >-
-              Original text: Sin importar el plan al que te hayas inscrito,
-              podrás solicitar todos los diseños que necesties. , key: 1ecd0d94
+              Original text: Sin importar el plan al que te hayas inscrito
+              podrás solicitar todos los diseños que necesties. , key: 2f476ae0
             label: Text
-            name: 1ecd0d94
+            name: 2f476ae0
             widget: text
           - hint: >-
-              Original text: Nuestro proyect manager será el puente entre tú y
-              nuestros diseñadores. Te apoyará en planear, organizar y priorizar
-              tus proyectos. Si necesitas más diseños, podrás agregarlo a la
-              cola de proyectos en culquier momento. , key: 6ad59daf
+              Original text: Nuestro project manager será el puente entre
+              nuestros diseñadores y tú. Te apoyará en planear, organizar y
+              priorizar tus proyectos. Si necesitas más diseños, podrás
+              agregarlos a la cola de proyectos en culquier momento. , key:
+              4a6f35d5
             label: Text
-            name: 6ad59daf
+            name: 4a6f35d5
             widget: text
           - hint: 'Original text: 03, key: 603'
             label: Text
@@ -354,37 +355,37 @@ collections:
             name: '-5a67d76b'
             widget: string
           - hint: >-
-              Original text: Aprueba el diseño, y pasamos al siguiente!, key:
-              5d3bfc8e
+              Original text: Aprueba el diseño y pasamos al siguiente!, key:
+              34ef17e2
             label: Text
-            name: 5d3bfc8e
+            name: 34ef17e2
             widget: string
           - hint: >-
-              Original text: Cuando estes satisfech@ con nuestro trabajo y hayas
+              Original text: Cuando estés satisfecho con nuestro trabajo y hayas
               aprobado el diseño que enviamos para tu aprobación, pasaremos a
-              trabajar en tu siguiete proyecto. , key: 9a56d91
+              trabajar en tu siguiente proyecto. , key: -46b98a20
             label: Text
-            name: 9a56d91
+            name: '-46b98a20'
             widget: text
           - hint: >-
-              Original text: Recuerda que realizamos un proyecto a la vez. (Si
+              Original text: Recuerda que realizamos un proyecto a la vez. Si
               necesitas mayor capacidad de trabajo para realizar más proyectos a
-              la vez, consulta con nosotros)., key: 23cad2d6
+              la vez, consulta con nosotros., key: -4171d8df
             label: Text
-            name: 23cad2d6
+            name: '-4171d8df'
             widget: text
           - hint: 'Original text: nuestro trabajo, key: -5454fd5d'
             label: Text
             name: '-5454fd5d'
             widget: string
           - hint: >-
-              Original text: Nuestro equipo tiene ampia experiencia en la
+              Original text: Nuestro equipo tiene amplia experiencia en la
               producción y ejecución de diseño gráfico, web, eventos, piezas
-              impresas, y más. Hemos trabajado con marcas líderes en salud,
+              impresas y más. Hemos trabajado con marcas líderes en salud,
               cosméticos, moda, retail, construcción, banca, ecommerce,
-              tecnología entre otras., key: 6d86b7f
+              tecnología entre otras., key: -5a110a19
             label: Text
-            name: 6d86b7f
+            name: '-5a110a19'
             widget: text
           - hint: 'Original text: nuestras capacidades, key: -3966521b'
             label: Text
@@ -697,9 +698,13 @@ collections:
             label: Text
             name: 260cc0
             widget: string
-          - hint: 'Original text: 4 por día, key: 286993f'
+          - hint: 'Original text: Tiempo Prod., key: -483c48cd'
             label: Text
-            name: 286993f
+            name: '-483c48cd'
+            widget: string
+          - hint: 'Original text:  2 horas, key: -725a03d1'
+            label: Text
+            name: '-725a03d1'
             widget: string
           - hint: 'Original text: $, key: 24'
             label: Text
@@ -713,9 +718,9 @@ collections:
             label: Text
             name: 228181ab
             widget: string
-          - hint: 'Original text: 2 por día, key: -260244c3'
+          - hint: 'Original text:  4 horas, key: -88d8d4f'
             label: Text
-            name: '-260244c3'
+            name: '-88d8d4f'
             widget: string
           - hint: 'Original text: 80.000, key: 62496e3a'
             label: Text
@@ -725,29 +730,41 @@ collections:
             label: Text
             name: 92a09a5
             widget: string
-          - hint: 'Original text: 40.000, key: 5b760bbe'
+          - hint: 'Original text: Tiempo Prod. , key: 40b32f4d'
             label: Text
-            name: 5b760bbe
+            name: 40b32f4d
+            widget: string
+          - hint: 'Original text: 2 horas, key: -6e7f9fb1'
+            label: Text
+            name: '-6e7f9fb1'
+            widget: string
+          - hint: 'Original text: 40.000 , key: 134b6c22'
+            label: Text
+            name: 134b6c22
             widget: string
           - hint: 'Original text: Portadas de perfil, key: -fb2359f'
             label: Text
             name: '-fb2359f'
             widget: string
-          - hint: 'Original text: 1 días, key: 5591618a'
+          - hint: 'Original text: 1 día, key: 2c2a009'
             label: Text
-            name: 5591618a
+            name: 2c2a009
             widget: string
-          - hint: 'Original text: 65.000, key: 5f263281'
+          - hint: 'Original text: 65.000 , key: -7a5fe241'
             label: Text
-            name: 5f263281
+            name: '-7a5fe241'
             widget: string
           - hint: 'Original text: Carrusel, key: 4310c03'
             label: Text
             name: 4310c03
             widget: string
-          - hint: 'Original text: 120.000, key: 781db1f1'
+          - hint: 'Original text: 4 horas, key: -4b3292f'
             label: Text
-            name: 781db1f1
+            name: '-4b3292f'
+            widget: string
+          - hint: 'Original text: 120.000 , key: -746773b1'
+            label: Text
+            name: '-746773b1'
             widget: string
           - hint: 'Original text: Digital, key: -39ce7a08'
             label: Text
@@ -757,10 +774,6 @@ collections:
             label: Text
             name: '-6b3fc555'
             widget: string
-          - hint: 'Original text: 1 día, key: 2c2a009'
-            label: Text
-            name: 2c2a009
-            widget: string
           - hint: 'Original text: 150.000, key: 7d3c3bce'
             label: Text
             name: 7d3c3bce
@@ -768,6 +781,10 @@ collections:
           - hint: 'Original text: Banner, key: 762a6b4c'
             label: Text
             name: 762a6b4c
+            widget: string
+          - hint: 'Original text: 1 días, key: 5591618a'
+            label: Text
+            name: 5591618a
             widget: string
           - hint: 'Original text: 90.000, key: 63fe46d9'
             label: Text
@@ -1116,9 +1133,9 @@ collections:
             label: Text
             name: '-2c794841'
             widget: text
-          - hint: 'Original text: ¿Quiénes son l@s diseñador@s?, key: 5c9504c2'
+          - hint: 'Original text: ¿Quiénes son lxs diseñadorxs?, key: 4951532'
             label: Text
-            name: 5c9504c2
+            name: '4951532'
             widget: string
           - hint: >-
               Original text: Somos diseñadorxs y creativxs, en su mayoría
