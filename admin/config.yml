@@ -430,9 +430,13 @@ collections:
             label: Text
             name: 323bd7a9
             widget: text
-          - hint: 'Original text: Planes mensuales (All Inclusive), key: 32feaf8c'
+          - hint: 'Original text: Planes All Inclusive Design, key: -289075c6'
             label: Text
-            name: 32feaf8c
+            name: '-289075c6'
+            widget: string
+          - hint: 'Original text: Planes de gestión de redes sociales, key: 5a5cc7ca'
+            label: Text
+            name: 5a5cc7ca
             widget: string
           - hint: 'Original text: Precio por pieza de diseño, key: 5a6d2040'
             label: Text
@@ -669,6 +673,98 @@ collections:
               key: -2e9a5a94
             label: Text
             name: '-2e9a5a94'
+            widget: string
+          - hint: 'Original text: Plan X3, key: 45c75312'
+            label: Text
+            name: 45c75312
+            widget: string
+          - hint: 'Original text: 3 publicaciones en la semana., key: -7bd354a1'
+            label: Text
+            name: '-7bd354a1'
+            widget: string
+          - hint: 'Original text: Incluye creación de parrilla., key: 2f033ced'
+            label: Text
+            name: 2f033ced
+            widget: string
+          - hint: 'Original text: $1.450.000, key: -7e2ddad0'
+            label: Text
+            name: '-7e2ddad0'
+            widget: string
+          - hint: 'Original text: 3 publicaciones a la semana, key: 7b6df6a3'
+            label: Text
+            name: 7b6df6a3
+            widget: string
+          - hint: >-
+              Original text: Creación de parrilla orientada a objetivos de
+              comunicación previamente acordados, key: -194900cc
+            label: Text
+            name: '-194900cc'
+            widget: string
+          - hint: 'Original text: Diseño de piezas, key: -aeb632c'
+            label: Text
+            name: '-aeb632c'
+            widget: string
+          - hint: 'Original text: Administración de redes, key: -4ae1a10b'
+            label: Text
+            name: '-4ae1a10b'
+            widget: string
+          - hint: >-
+              Original text: Publicación y seguimiento de contenido, key:
+              3338fe7f
+            label: Text
+            name: 3338fe7f
+            widget: string
+          - hint: >-
+              Original text: Atención, gestión y segimiento de PQRS en redes,
+              key: 26104580
+            label: Text
+            name: '26104580'
+            widget: string
+          - hint: >-
+              Original text: Creación, ajustes solicitados por el cliente y
+              seguimiento, key: -6a950e07
+            label: Text
+            name: '-6a950e07'
+            widget: string
+          - hint: "Original text: Optimización de pauta para Meta\_ADS (Facebook ADS), key: d65e25e"
+            label: Text
+            name: d65e25e
+            widget: string
+          - hint: >-
+              Original text: Elaboración de informes mensuales de canales, key:
+              13697dcc
+            label: Text
+            name: 13697dcc
+            widget: string
+          - hint: >-
+              Original text: Optmización de contenido a partir de análisis de
+              informes, key: 2bd8c9f9
+            label: Text
+            name: 2bd8c9f9
+            widget: string
+          - hint: 'Original text: Plan X5, key: 45c75314'
+            label: Text
+            name: 45c75314
+            widget: string
+          - hint: 'Original text: 5 publicaciones en la semana., key: -29338b9f'
+            label: Text
+            name: '-29338b9f'
+            widget: string
+          - hint: 'Original text: $1''800.000, key: 75ba9d00'
+            label: Text
+            name: 75ba9d00
+            widget: string
+          - hint: 'Original text: Plan X7, key: 45c75316'
+            label: Text
+            name: 45c75316
+            widget: string
+          - hint: 'Original text: 7 publicaciones en la semana., key: 296c3d63'
+            label: Text
+            name: 296c3d63
+            widget: string
+          - hint: 'Original text: $2.190.000, key: 7e3744ea'
+            label: Text
+            name: 7e3744ea
             widget: string
           - hint: 'Original text: tiempo de producción, key: 5116b6e1'
             label: Text
