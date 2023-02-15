@@ -1504,6 +1504,14 @@ figcaption {
   background-color: #fff;
 }
 
+.fs-styleguide_color.is-4 {
+  background-color: #f2e1d8;
+}
+
+.fs-styleguide_color.is-5 {
+  background-color: #025959;
+}
+
 .line {
   min-width: 232px;
   padding-top: 1px;

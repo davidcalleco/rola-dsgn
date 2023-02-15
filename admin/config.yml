@@ -618,9 +618,9 @@ collections:
             label: Text
             name: '-4631e87e'
             widget: string
-          - hint: 'Original text: $500.000, key: -1c08c2ed'
+          - hint: 'Original text: $299.000, key: 551efc70'
             label: Text
-            name: '-1c08c2ed'
+            name: 551efc70
             widget: string
           - hint: >-
               Original text: Actualización y mantenimiento de 1 sitio web, key:
@@ -673,6 +673,10 @@ collections:
               key: -2e9a5a94
             label: Text
             name: '-2e9a5a94'
+            widget: string
+          - hint: 'Original text: $500.000, key: -1c08c2ed'
+            label: Text
+            name: '-1c08c2ed'
             widget: string
           - hint: 'Original text: Plan X3, key: 45c75312'
             label: Text
@@ -1818,6 +1822,14 @@ collections:
           - hint: 'Original text: #fffff, key: 4186e4a3'
             label: Text
             name: 4186e4a3
+            widget: string
+          - hint: 'Original text: #f2e1d8, key: -138851d1'
+            label: Text
+            name: '-138851d1'
+            widget: string
+          - hint: 'Original text: #025959, key: -6fc3bcd3'
+            label: Text
+            name: '-6fc3bcd3'
             widget: string
           - hint: 'Original text: Text Colors, key: -1c74483d'
             label: Text
