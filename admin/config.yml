@@ -454,9 +454,9 @@ collections:
             label: Text
             name: 4f8811e
             widget: string
-          - hint: 'Original text: $2.000.000, key: 39f56c12'
+          - hint: 'Original text: $3.000.000, key: -31c624ed'
             label: Text
-            name: 39f56c12
+            name: '-31c624ed'
             widget: string
           - hint: 'Original text: /mes, key: 17034c'
             label: Text
@@ -548,9 +548,9 @@ collections:
             label: Text
             name: '-3bed6c87'
             widget: string
-          - hint: 'Original text: $2''800.000, key: 9ff0c01'
+          - hint: 'Original text: $3''500.000, key: -6f36c1'
             label: Text
-            name: 9ff0c01
+            name: '-6f36c1'
             widget: string
           - hint: 'Original text: Piezas ilimitadas al mes*, key: -44126c35'
             label: Text
@@ -618,9 +618,9 @@ collections:
             label: Text
             name: '-4631e87e'
             widget: string
-          - hint: 'Original text: $299.000, key: 551efc70'
+          - hint: 'Original text: $399.000, key: -75fac84f'
             label: Text
-            name: 551efc70
+            name: '-75fac84f'
             widget: string
           - hint: >-
               Original text: Actualización y mantenimiento de 1 sitio web, key:
@@ -673,6 +673,14 @@ collections:
               key: -2e9a5a94
             label: Text
             name: '-2e9a5a94'
+            widget: string
+          - hint: 'Original text: $2''800.000, key: 9ff0c01'
+            label: Text
+            name: 9ff0c01
+            widget: string
+          - hint: 'Original text: $2.000.000, key: 39f56c12'
+            label: Text
+            name: 39f56c12
             widget: string
           - hint: 'Original text: $500.000, key: -1c08c2ed'
             label: Text
