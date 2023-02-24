@@ -590,6 +590,10 @@ collections:
             label: Text
             name: 70c91b5d
             widget: string
+          - hint: 'Original text: Storytelling, key: -5335c7e4'
+            label: Text
+            name: '-5335c7e4'
+            widget: string
           - hint: 'Original text: Diseño de landing pages, key: -6f4f35b9'
             label: Text
             name: '-6f4f35b9'
@@ -618,9 +622,9 @@ collections:
             label: Text
             name: '-4631e87e'
             widget: string
-          - hint: 'Original text: $399.000, key: -75fac84f'
+          - hint: 'Original text: $500.000, key: -1c08c2ed'
             label: Text
-            name: '-75fac84f'
+            name: '-1c08c2ed'
             widget: string
           - hint: >-
               Original text: Actualización y mantenimiento de 1 sitio web, key:
@@ -681,10 +685,6 @@ collections:
           - hint: 'Original text: $2.000.000, key: 39f56c12'
             label: Text
             name: 39f56c12
-            widget: string
-          - hint: 'Original text: $500.000, key: -1c08c2ed'
-            label: Text
-            name: '-1c08c2ed'
             widget: string
           - hint: 'Original text: Plan X3, key: 45c75312'
             label: Text
