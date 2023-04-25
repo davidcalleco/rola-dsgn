@@ -168,50 +168,45 @@ collections:
             name: title
             widget: hidden
             default: Texts
-          - hint: 'Original text: ¿Cómo fuciona?, key: 5806a061'
+          - hint: 'Original text: Diseño Digital, key: ad5ca6d'
             label: Text
-            name: 5806a061
+            name: ad5ca6d
             widget: string
-          - hint: 'Original text: Nuestro trabajo, key: 703dba83'
+          - hint: 'Original text: Por qué ROLA, key: -20f01c46'
             label: Text
-            name: 703dba83
-            widget: string
-          - hint: 'Original text: Capacidades, key: -102a3c00'
-            label: Text
-            name: '-102a3c00'
+            name: '-20f01c46'
             widget: string
           - hint: 'Original text: Precios, key: 5038d9cd'
             label: Text
             name: 5038d9cd
             widget: string
-          - hint: 'Original text: Contacto, key: -1df83b91'
+          - hint: 'Original text: Hablemos, key: -101285d1'
             label: Text
-            name: '-1df83b91'
+            name: '-101285d1'
             widget: string
-          - hint: 'Original text: Agendar llamada, key: -1c483ce8'
+          - hint: 'Original text: Diseño digital por suscripción, key: -6259ecf8'
             label: Text
-            name: '-1c483ce8'
-            widget: string
-          - hint: >-
-              Original text: Diseño digital, web y de redes sociales por
-              suscripción, key: 11f6e842
-            label: Text
-            name: 11f6e842
+            name: '-6259ecf8'
             widget: string
           - hint: >-
-              Original text: ¡Libérate de los altos costos de una agencia o de
-              la informalidad de un freelancer, con una suscripción fija mensual
-              sin sorpresas!, key: 37eee419
+              Original text: Servicios de diseño digital para empresas y
+              agencias en crecimiento que te permite acceder a diversas
+              habilidades de diseño con una tarifa transparente y una
+              mensualidad fija. , key: 3f62e637
             label: Text
-            name: 37eee419
+            name: 3f62e637
             widget: text
-          - hint: 'Original text: Agendar Llamada, key: 46f05af8'
+          - hint: 'Original text: Ver nuestros servicios, key: -5b76faf'
             label: Text
-            name: 46f05af8
+            name: '-5b76faf'
             widget: string
-          - hint: 'Original text: Cotizar, key: -63c05976'
+          - hint: 'Original text: algunos de , key: 19d1a0f8'
             label: Text
-            name: '-63c05976'
+            name: 19d1a0f8
+            widget: string
+          - hint: 'Original text: nuestros clientes, key: 362f4ca2'
+            label: Text
+            name: 362f4ca2
             widget: string
           - hint: >-
               Original text: Contrata a tu equipo de diseño en pocos clicks,
@@ -224,12 +219,11 @@ collections:
             name: 789bcfa8
             widget: string
           - hint: >-
-              Original text: Nuestro modelo mensual All Inclusive y planes de
-              precio por pieza de Rola Design, garantizan una alta eficiencia y
-              productividad, que te permitirá ahorrar costos y tiempos de
-              producción., key: -4c8a3158
+              Original text: Nuestro modelo mensual All Inclusive de Rola
+              Design, garantizan una alta eficiencia y productividad, que te
+              permitirá ahorrar costos y tiempos de producción., key: 5f63e3d
             label: Text
-            name: '-4c8a3158'
+            name: 5f63e3d
             widget: text
           - hint: 'Original text: entregas rápidas y de alta calidad, key: 6091285'
             label: Text
@@ -247,133 +241,93 @@ collections:
             name: 1790d73c
             widget: string
           - hint: >-
-              Original text: Al suscribirte a cualquiera de nuestros planes de
-              suscripción, obtendrás acceso a un equipo creativo dedicado, que
-              incluye un gerente de proyecto, un director de diseño y un equipo
-              modular de creativos para satisfacer las necesidades únicas de sus
-              proyectos., key: -3f736cc1
+              Original text: Al suscribirte a cualquiera de nuestros planes,
+              obtendrás acceso a un equipo creativo dedicado, que incluye un
+              gerente de proyecto, un director de diseño y un equipo modular de
+              creativos para satisfacer las necesidades únicas de sus
+              proyectos., key: 7970a920
             label: Text
-            name: '-3f736cc1'
+            name: 7970a920
             widget: text
-          - hint: 'Original text: ¿cómo funciona?, key: 1fda3433'
+          - hint: 'Original text: Nuestro modelo, key: -214215b6'
             label: Text
-            name: 1fda3433
+            name: '-214215b6'
+            widget: string
+          - hint: 'Original text: design-as-a-service, key: 6b97391d'
+            label: Text
+            name: 6b97391d
             widget: string
           - hint: >-
-              Original text: La manera más rápida de contratar tu equipo
-              creativo y comenzar a diseñar., key: -4a8644ef
+              Original text: Un modelo de suscripción único que puede ayudar a
+              tus equipos de marketing y creatividad a obtener los creativos en
+              diseño digital que necesitas para crecer de manera más eficiente.,
+              key: -3b7d313e
             label: Text
-            name: '-4a8644ef'
-            widget: string
-          - hint: 'Original text: 01, key: 601'
-            label: Text
-            name: '601'
-            widget: string
-          - hint: 'Original text: paso uno, key: 4829e663'
-            label: Text
-            name: '4829e663'
-            widget: string
-          - hint: 'Original text: cotiza y contrata nuestro servicio, key: f02582d'
-            label: Text
-            name: f02582d
-            widget: string
-          - hint: >-
-              Original text: De acuerdo con tu necesidad, podrás contratar
-              nuestros servicios, ya sea por piezas individuales de diseño o
-              plan de piezas ilimitadas (si requieres múltiples piezas)., key:
-              70d82c3
-            label: Text
-            name: 70d82c3
+            name: '-3b7d313e'
             widget: text
-          - hint: >-
-              Original text: Consulta con nosotros el plan que mejor se ajuste a
-              tus necesidades. Estamos para apoyarte en cada paso., key:
-              3b83dc33
+          - hint: 'Original text: nosotros, key: 5d24ee3f'
             label: Text
-            name: 3b83dc33
-            widget: text
-          - hint: 'Original text: 02, key: 602'
-            label: Text
-            name: '602'
+            name: 5d24ee3f
             widget: string
-          - hint: 'Original text: paso dos, key: 4829a6b5'
+          - hint: 'Original text: rola design, key: 7011a52c'
             label: Text
-            name: 4829a6b5
-            widget: string
-          - hint: 'Original text: Solicita cuantos diseños necesites, key: -5a97db8a'
-            label: Text
-            name: '-5a97db8a'
+            name: 7011a52c
             widget: string
           - hint: >-
-              Original text: Sin importar el plan al que te hayas inscrito
-              podrás solicitar todos los diseños que necesites. , key: 1d1d1e96
+              Original text: Somos un equipo de diseñadores, comunicadores y
+              estrategas, en su mayoría mujeres, trabajando desde Bogotá,
+              Colombia. , key: -6fcd727
             label: Text
-            name: 1d1d1e96
+            name: '-6fcd727'
             widget: text
           - hint: >-
-              Original text: Nuestro project manager será el puente entre
-              nuestros diseñadores y tú. Te apoyará en planear, organizar y
-              priorizar tus proyectos. Si necesitas más diseños, podrás
-              agregarlos a la cola de proyectos en cualquier momento. , key:
-              1f38c65a
+              Original text: Te permitimos escalar tus operaciones de diseño
+              rápidamente sin la molestia del empleo tradicional, altos costos
+              de una agencia, o de la informalidad de un freelancer., key:
+              -68f7d6d0
             label: Text
-            name: 1f38c65a
+            name: '-68f7d6d0'
             widget: text
-          - hint: 'Original text: 03, key: 603'
+          - hint: 'Original text: Button, key: 77471352'
             label: Text
-            name: '603'
-            widget: string
-          - hint: 'Original text: paso tres, key: -42ed8021'
-            label: Text
-            name: '-42ed8021'
-            widget: string
-          - hint: 'Original text: Recibe tus diseños, key: 7eab0b6c'
-            label: Text
-            name: 7eab0b6c
+            name: '77471352'
             widget: string
           - hint: >-
-              Original text: Recibe tus diseños super rápido. Normalmente nos
-              demoramos pocas horas para diseñar tus proyectos. A medida que van
-              quedando listos, te notificaremos para que puedas revisarlos. ,
-              key: -7b3a47d8
+              Original text: Cómo rola se compara con la contratación interna,
+              key: 5e8d0fde
             label: Text
-            name: '-7b3a47d8'
-            widget: text
-          - hint: >-
-              Original text: Recuerda que tienes derecho a cuantas revisiones
-              sean necesarias para lograr tu satisfacción. Trabajamos de lunes a
-              viernes., key: 1bb0689e
-            label: Text
-            name: 1bb0689e
-            widget: text
-          - hint: 'Original text: 04, key: 604'
-            label: Text
-            name: '604'
-            widget: string
-          - hint: 'Original text: paso cuatro, key: -5a67d76b'
-            label: Text
-            name: '-5a67d76b'
+            name: 5e8d0fde
             widget: string
           - hint: >-
-              Original text: Aprueba el diseño y pasamos al siguiente!, key:
-              34ef17e2
+              Original text: El costo anual de un diseñador de alto nivel de
+              tiempo completo es bastaste alto. Si contratas según el modelo
+              freelance por prestación de servicios, hay que tener en cuenta los
+              costos de los aportes, y riesgos a nivel de responsabilidad
+              contractual., key: -51d01114
             label: Text
-            name: 34ef17e2
+            name: '-51d01114'
+            widget: text
+          - hint: >-
+              Original text: Este diseñador puede que no sea experto en todas
+              las areas de diseño que necesita tu empresa, o es posible que no
+              siempre tengas suficiente trabajo para mantenerlos ocupados en
+              todo momento, por lo que debe pagar por el tiempo que no puede
+              utilizar., key: 201e92c4
+            label: Text
+            name: 201e92c4
+            widget: text
+          - hint: >-
+              Original text: Con nuestro plan mensual, cuentas con un equipo
+              integral de diseñadores y programadores expertos en diferentes
+              áreas. Adicional, te liberas de los riesgos y la carga que implica
+              contratar un freelance. , key: 58cd5b3f
+            label: Text
+            name: 58cd5b3f
+            widget: text
+          - hint: 'Original text: portfolio, key: 42dd0548'
+            label: Text
+            name: 42dd0548
             widget: string
-          - hint: >-
-              Original text: Cuando estés satisfecho con nuestro trabajo y hayas
-              aprobado el diseño que enviamos para tu aprobación, pasaremos a
-              trabajar en tu siguiente proyecto. , key: -46b98a20
-            label: Text
-            name: '-46b98a20'
-            widget: text
-          - hint: >-
-              Original text: Recuerda que realizamos un proyecto a la vez. Si
-              necesitas mayor capacidad de trabajo para realizar más proyectos a
-              la vez, consulta con nosotros., key: -4171d8df
-            label: Text
-            name: '-4171d8df'
-            widget: text
           - hint: 'Original text: nuestro trabajo, key: -5454fd5d'
             label: Text
             name: '-5454fd5d'
@@ -387,6 +341,10 @@ collections:
             label: Text
             name: '-5a110a19'
             widget: text
+          - hint: 'Original text: servicios, key: -b92f5a3'
+            label: Text
+            name: '-b92f5a3'
+            widget: string
           - hint: 'Original text: nuestras capacidades, key: -3966521b'
             label: Text
             name: '-3966521b'
@@ -411,898 +369,23 @@ collections:
             label: Text
             name: 2572f1b
             widget: string
-          - hint: 'Original text: sitios web, key: 1554ce23'
+          - hint: 'Original text: diseño de landing pages, key: -291c0d99'
             label: Text
-            name: 1554ce23
+            name: '-291c0d99'
             widget: string
-          - hint: 'Original text: publiexterior, key: 4f966df8'
+          - hint: 'Original text: contáctanos, key: 75937771'
             label: Text
-            name: 4f966df8
-            widget: string
-          - hint: 'Original text: precios predecibles, sin sorpresas., key: -578245ff'
-            label: Text
-            name: '-578245ff'
+            name: '75937771'
             widget: string
           - hint: >-
-              Original text: Para empresas y agencias que necesitan acceso a
-              servicios de diseño digital y de redes sociales bajo demanda,
-              fiables y de calidad., key: 323bd7a9
+              Original text: Nos encantaría saber acerca de tu proyecto, key:
+              -33e4d5c7
             label: Text
-            name: 323bd7a9
-            widget: text
-          - hint: 'Original text: Planes All Inclusive Design, key: -289075c6'
-            label: Text
-            name: '-289075c6'
-            widget: string
-          - hint: 'Original text: Planes de gestión de redes sociales, key: 5a5cc7ca'
-            label: Text
-            name: 5a5cc7ca
-            widget: string
-          - hint: 'Original text: Precio por pieza de diseño, key: 5a6d2040'
-            label: Text
-            name: 5a6d2040
-            widget: string
-          - hint: 'Original text: Diseño y desarrollo web, key: -2df564eb'
-            label: Text
-            name: '-2df564eb'
-            widget: string
-          - hint: 'Original text: Sin compromiso mínimo. , key: 5a8965e3'
-            label: Text
-            name: 5a8965e3
-            widget: string
-          - hint: 'Original text: Demo disponible., key: 4f8811e'
-            label: Text
-            name: 4f8811e
-            widget: string
-          - hint: 'Original text: $3.000.000, key: -31c624ed'
-            label: Text
-            name: '-31c624ed'
-            widget: string
-          - hint: 'Original text: /mes, key: 17034c'
-            label: Text
-            name: 17034c
-            widget: string
-          - hint: >-
-              Original text: Pausa o cancela en cualquier momento., key:
-              -391d2077
-            label: Text
-            name: '-391d2077'
-            widget: string
-          - hint: 'Original text: Proyectos ilimitados al mes*, key: -22d979f1'
-            label: Text
-            name: '-22d979f1'
-            widget: string
-          - hint: 'Original text: Revisiones ilimitadas*, key: -2268da34'
-            label: Text
-            name: '-2268da34'
-            widget: string
-          - hint: 'Original text: Marcas ilimitadas*, key: 3cc7fcba'
-            label: Text
-            name: 3cc7fcba
-            widget: string
-          - hint: 'Original text: Una solicitud activa a la vez*, key: 5139d1a1'
-            label: Text
-            name: 5139d1a1
-            widget: string
-          - hint: 'Original text: Project Manager dedicado, key: 64918a9'
-            label: Text
-            name: 64918a9
-            widget: string
-          - hint: >-
-              Original text: Sin contratos. Pausa o cancela en cualquier
-              momento., key: -6add4138
-            label: Text
-            name: '-6add4138'
-            widget: string
-          - hint: 'Original text: Tiempo rápido de entrega, key: 6c3b0582'
-            label: Text
-            name: 6c3b0582
-            widget: string
-          - hint: 'Original text: Soporte + tips, key: 6e487a25'
-            label: Text
-            name: 6e487a25
-            widget: string
-          - hint: 'Original text: Diseño y desarrollo de sitios web, key: -4d33e5d'
-            label: Text
-            name: '-4d33e5d'
-            widget: string
-          - hint: >-
-              Original text: Diseño y desarrollorro de landing pages, key:
-              -45f9f932
-            label: Text
-            name: '-45f9f932'
-            widget: string
-          - hint: >-
-              Original text: Actualización y mantenimiento de sitios web, key:
-              4ff4cae4
-            label: Text
-            name: 4ff4cae4
-            widget: string
-          - hint: 'Original text: Desarrollo responsive para móviles, key: -5fd5ac84'
-            label: Text
-            name: '-5fd5ac84'
-            widget: string
-          - hint: 'Original text: Estructura básica de SEO, key: 7ccc395'
-            label: Text
-            name: 7ccc395
-            widget: string
-          - hint: 'Original text: Desarrollo en WordPress o Webflow, key: -6eaf94fc'
-            label: Text
-            name: '-6eaf94fc'
-            widget: string
-          - hint: 'Original text: Migraciones a Webflow, key: 71637790'
-            label: Text
-            name: '71637790'
-            widget: string
-          - hint: 'Original text: Integraciones, key: -31bcd52d'
-            label: Text
-            name: '-31bcd52d'
-            widget: string
-          - hint: 'Original text: Acceso a nuestra librería de Figma, key: 1217fcfa'
-            label: Text
-            name: 1217fcfa
-            widget: string
-          - hint: >-
-              Original text: Desarrollamos tus diseños hechos en .PSD, .AI,
-              Figma, y XD, key: -3bed6c87
-            label: Text
-            name: '-3bed6c87'
-            widget: string
-          - hint: 'Original text: $3''500.000, key: -6f36c1'
-            label: Text
-            name: '-6f36c1'
-            widget: string
-          - hint: 'Original text: Piezas ilimitadas al mes*, key: -44126c35'
-            label: Text
-            name: '-44126c35'
-            widget: string
-          - hint: 'Original text: Gráficos para redes sociales, key: -54451596'
-            label: Text
-            name: '-54451596'
-            widget: string
-          - hint: >-
-              Original text: Diseño de posts, reels stories y carrusel, key:
-              -144eca2f
-            label: Text
-            name: '-144eca2f'
-            widget: string
-          - hint: 'Original text: Diseño de mailing, key: 157a597'
-            label: Text
-            name: 157a597
-            widget: string
-          - hint: 'Original text: Diseño de presentaciones, key: 25beca6d'
-            label: Text
-            name: 25beca6d
-            widget: string
-          - hint: 'Original text: Diseño animaciones, key: 3ea2f698'
-            label: Text
-            name: 3ea2f698
-            widget: string
-          - hint: 'Original text: Producción de video, key: 38b44476'
-            label: Text
-            name: 38b44476
-            widget: string
-          - hint: 'Original text: Diseño de ebooks, key: -1e0ef2e7'
-            label: Text
-            name: '-1e0ef2e7'
-            widget: string
-          - hint: 'Original text: Diseño de impresos y publiexterior, key: 70c91b5d'
-            label: Text
-            name: 70c91b5d
-            widget: string
-          - hint: 'Original text: Storytelling, key: -5335c7e4'
-            label: Text
-            name: '-5335c7e4'
-            widget: string
-          - hint: 'Original text: Diseño de landing pages, key: -6f4f35b9'
-            label: Text
-            name: '-6f4f35b9'
-            widget: string
-          - hint: >-
-              Original text: (el desarrollo se cobra aparte: $300.000 por
-              página)., key: -6de06899
-            label: Text
-            name: '-6de06899'
-            widget: string
-          - hint: 'Original text: Diseño de sitios web, key: 74ca47d7'
-            label: Text
-            name: 74ca47d7
-            widget: string
-          - hint: >-
-              Original text: (el desarrollo se cobra aparte: $300.000 por página
-              interna)., key: -14c6a2ea
-            label: Text
-            name: '-14c6a2ea'
-            widget: string
-          - hint: 'Original text: Mantenimiento de 1 Sitio Web, key: -6a9b4b9c'
-            label: Text
-            name: '-6a9b4b9c'
-            widget: string
-          - hint: 'Original text: Precio por 1 sitio web, key: -4631e87e'
-            label: Text
-            name: '-4631e87e'
-            widget: string
-          - hint: 'Original text: $500.000, key: -1c08c2ed'
-            label: Text
-            name: '-1c08c2ed'
-            widget: string
-          - hint: >-
-              Original text: Actualización y mantenimiento de 1 sitio web, key:
-              a1975e8
-            label: Text
-            name: a1975e8
-            widget: string
-          - hint: >-
-              Original text: Solicitudes ilimitadas* de actualización de
-              contenido, key: 5e04598b
-            label: Text
-            name: 5e04598b
-            widget: string
-          - hint: >-
-              Original text: Solicitudes ilimitadas* de rediseño de páginas,
-              key: -67fb3bee
-            label: Text
-            name: '-67fb3bee'
-            widget: string
-          - hint: 'Original text: Una solicitud activa a la vez, key: -de55c57'
-            label: Text
-            name: '-de55c57'
-            widget: string
-          - hint: 'Original text: Wordpress o Webflow, key: -60e4c56'
-            label: Text
-            name: '-60e4c56'
-            widget: string
-          - hint: "Original text: Migración de WordPress u otro CMS\_a Webflow, key: 658c443a"
-            label: Text
-            name: 658c443a
-            widget: string
-          - hint: 'Original text: Mejora de velocidad de carga, key: 15a5c0eb'
-            label: Text
-            name: 15a5c0eb
-            widget: string
-          - hint: >-
-              Original text: Adaptación de sitio web a dispositivos móbiles,
-              key: 76769035
-            label: Text
-            name: '76769035'
-            widget: string
-          - hint: >-
-              Original text: Sin contratos. Pausa o concela en cualquier
-              momento., key: -3f6eda06
-            label: Text
-            name: '-3f6eda06'
-            widget: string
-          - hint: >-
-              Original text: Acceso a nuestra librería de componentes de Figma,
-              key: -2e9a5a94
-            label: Text
-            name: '-2e9a5a94'
-            widget: string
-          - hint: 'Original text: $2''800.000, key: 9ff0c01'
-            label: Text
-            name: 9ff0c01
-            widget: string
-          - hint: 'Original text: $2.000.000, key: 39f56c12'
-            label: Text
-            name: 39f56c12
-            widget: string
-          - hint: 'Original text: Plan X3, key: 45c75312'
-            label: Text
-            name: 45c75312
-            widget: string
-          - hint: 'Original text: 3 publicaciones en la semana., key: -7bd354a1'
-            label: Text
-            name: '-7bd354a1'
-            widget: string
-          - hint: 'Original text: Incluye creación de parrilla., key: 2f033ced'
-            label: Text
-            name: 2f033ced
-            widget: string
-          - hint: 'Original text: $1.450.000, key: -7e2ddad0'
-            label: Text
-            name: '-7e2ddad0'
-            widget: string
-          - hint: 'Original text: 3 publicaciones a la semana, key: 7b6df6a3'
-            label: Text
-            name: 7b6df6a3
-            widget: string
-          - hint: >-
-              Original text: Creación de parrilla orientada a objetivos de
-              comunicación previamente acordados, key: -194900cc
-            label: Text
-            name: '-194900cc'
-            widget: string
-          - hint: 'Original text: Diseño de piezas, key: -aeb632c'
-            label: Text
-            name: '-aeb632c'
-            widget: string
-          - hint: 'Original text: Administración de redes, key: -4ae1a10b'
-            label: Text
-            name: '-4ae1a10b'
-            widget: string
-          - hint: >-
-              Original text: Publicación y seguimiento de contenido, key:
-              3338fe7f
-            label: Text
-            name: 3338fe7f
-            widget: string
-          - hint: >-
-              Original text: Atención, gestión y segimiento de PQRS en redes,
-              key: 26104580
-            label: Text
-            name: '26104580'
-            widget: string
-          - hint: >-
-              Original text: Creación, ajustes solicitados por el cliente y
-              seguimiento, key: -6a950e07
-            label: Text
-            name: '-6a950e07'
-            widget: string
-          - hint: "Original text: Optimización de pauta para Meta\_ADS (Facebook ADS), key: d65e25e"
-            label: Text
-            name: d65e25e
-            widget: string
-          - hint: >-
-              Original text: Elaboración de informes mensuales de canales, key:
-              13697dcc
-            label: Text
-            name: 13697dcc
-            widget: string
-          - hint: >-
-              Original text: Optmización de contenido a partir de análisis de
-              informes, key: 2bd8c9f9
-            label: Text
-            name: 2bd8c9f9
-            widget: string
-          - hint: 'Original text: Plan X5, key: 45c75314'
-            label: Text
-            name: 45c75314
-            widget: string
-          - hint: 'Original text: 5 publicaciones en la semana., key: -29338b9f'
-            label: Text
-            name: '-29338b9f'
-            widget: string
-          - hint: 'Original text: $1''800.000, key: 75ba9d00'
-            label: Text
-            name: 75ba9d00
-            widget: string
-          - hint: 'Original text: Plan X7, key: 45c75316'
-            label: Text
-            name: 45c75316
-            widget: string
-          - hint: 'Original text: 7 publicaciones en la semana., key: 296c3d63'
-            label: Text
-            name: 296c3d63
-            widget: string
-          - hint: 'Original text: $2.190.000, key: 7e3744ea'
-            label: Text
-            name: 7e3744ea
-            widget: string
-          - hint: 'Original text: tiempo de producción, key: 5116b6e1'
-            label: Text
-            name: 5116b6e1
-            widget: string
-          - hint: 'Original text: ‍, key: 200d'
-            label: Text
-            name: 200d
-            widget: string
-          - hint: 'Original text: (estimado), key: 64df1ff'
-            label: Text
-            name: 64df1ff
-            widget: string
-          - hint: 'Original text: precio por pieza, key: f6f54c'
-            label: Text
-            name: f6f54c
-            widget: string
-          - hint: 'Original text: (COP$), key: 481719c1'
-            label: Text
-            name: 481719c1
-            widget: string
-          - hint: 'Original text: Redes sociales, key: -3f390d04'
-            label: Text
-            name: '-3f390d04'
-            widget: string
-          - hint: 'Original text: Post, key: 260cc0'
-            label: Text
-            name: 260cc0
-            widget: string
-          - hint: 'Original text: Tiempo Prod., key: -483c48cd'
-            label: Text
-            name: '-483c48cd'
-            widget: string
-          - hint: 'Original text:  2 horas, key: -725a03d1'
-            label: Text
-            name: '-725a03d1'
-            widget: string
-          - hint: 'Original text: $, key: 24'
-            label: Text
-            name: '24'
-            widget: string
-          - hint: 'Original text: 50.000, key: 5d2ae45d'
-            label: Text
-            name: 5d2ae45d
-            widget: string
-          - hint: 'Original text: Reels Instagram, key: 228181ab'
-            label: Text
-            name: 228181ab
-            widget: string
-          - hint: 'Original text:  4 horas, key: -88d8d4f'
-            label: Text
-            name: '-88d8d4f'
-            widget: string
-          - hint: 'Original text: 80.000, key: 62496e3a'
-            label: Text
-            name: 62496e3a
-            widget: string
-          - hint: 'Original text: Instagram Stories, key: 92a09a5'
-            label: Text
-            name: 92a09a5
-            widget: string
-          - hint: 'Original text: Tiempo Prod. , key: 40b32f4d'
-            label: Text
-            name: 40b32f4d
-            widget: string
-          - hint: 'Original text: 2 horas, key: -6e7f9fb1'
-            label: Text
-            name: '-6e7f9fb1'
-            widget: string
-          - hint: 'Original text: 40.000 , key: 134b6c22'
-            label: Text
-            name: 134b6c22
-            widget: string
-          - hint: 'Original text: Portadas de perfil, key: -fb2359f'
-            label: Text
-            name: '-fb2359f'
-            widget: string
-          - hint: 'Original text: 1 día, key: 2c2a009'
-            label: Text
-            name: 2c2a009
-            widget: string
-          - hint: 'Original text: 65.000 , key: -7a5fe241'
-            label: Text
-            name: '-7a5fe241'
-            widget: string
-          - hint: 'Original text: Carrusel, key: 4310c03'
-            label: Text
-            name: 4310c03
-            widget: string
-          - hint: 'Original text: 4 horas, key: -4b3292f'
-            label: Text
-            name: '-4b3292f'
-            widget: string
-          - hint: 'Original text: 120.000 , key: -746773b1'
-            label: Text
-            name: '-746773b1'
-            widget: string
-          - hint: 'Original text: Digital, key: -39ce7a08'
-            label: Text
-            name: '-39ce7a08'
-            widget: string
-          - hint: 'Original text: Mailing, key: -6b3fc555'
-            label: Text
-            name: '-6b3fc555'
-            widget: string
-          - hint: 'Original text: 150.000, key: 7d3c3bce'
-            label: Text
-            name: 7d3c3bce
-            widget: string
-          - hint: 'Original text: Banner, key: 762a6b4c'
-            label: Text
-            name: 762a6b4c
-            widget: string
-          - hint: 'Original text: 1 días, key: 5591618a'
-            label: Text
-            name: 5591618a
-            widget: string
-          - hint: 'Original text: 90.000, key: 63fe46d9'
-            label: Text
-            name: 63fe46d9
-            widget: string
-          - hint: 'Original text: Animación, key: -45ea6eef'
-            label: Text
-            name: '-45ea6eef'
-            widget: string
-          - hint: 'Original text: 2 días, key: 57463a29'
-            label: Text
-            name: 57463a29
-            widget: string
-          - hint: 'Original text: Video, key: 4ed245b'
-            label: Text
-            name: 4ed245b
-            widget: string
-          - hint: 'Original text: Según solicitud, key: -14633313'
-            label: Text
-            name: '-14633313'
-            widget: string
-          - hint: 'Original text: Desde, key: 3ede3f3'
-            label: Text
-            name: 3ede3f3
-            widget: string
-          - hint: 'Original text: Presentaciones (por slide), key: 64d7ae66'
-            label: Text
-            name: 64d7ae66
-            widget: string
-          - hint: 'Original text: 5 slides por día, key: 3612bb38'
-            label: Text
-            name: 3612bb38
-            widget: string
-          - hint: 'Original text: 35.000, key: 5a07a8a4'
-            label: Text
-            name: 5a07a8a4
-            widget: string
-          - hint: 'Original text: Firma de correo electrónico, key: -4323a471'
-            label: Text
-            name: '-4323a471'
-            widget: string
-          - hint: 'Original text: 25.000, key: 5852d005'
-            label: Text
-            name: 5852d005
-            widget: string
-          - hint: 'Original text: DISEÑO WEB, key: -7bdcd1f7'
-            label: Text
-            name: '-7bdcd1f7'
-            widget: string
-          - hint: 'Original text: Diseño de Landing Page, key: -a5e8c14'
-            label: Text
-            name: '-a5e8c14'
-            widget: string
-          - hint: 'Original text: 1 o 2 días, key: 494c9e09'
-            label: Text
-            name: 494c9e09
-            widget: string
-          - hint: 'Original text: 300.000, key: -217f88cb'
-            label: Text
-            name: '-217f88cb'
-            widget: string
-          - hint: 'Original text: Desarrollo de Landing page, key: 6ab5b806'
-            label: Text
-            name: 6ab5b806
-            widget: string
-          - hint: >-
-              Original text: Diseño de sitio web (por página interna), key:
-              -692a5885
-            label: Text
-            name: '-692a5885'
-            widget: string
-          - hint: 'Original text: 250.000, key: -4ddd88f1'
-            label: Text
-            name: '-4ddd88f1'
-            widget: string
-          - hint: >-
-              Original text: Desarrollo de sitio web (por página interna), key:
-              -3c887acb
-            label: Text
-            name: '-3c887acb'
-            widget: string
-          - hint: >-
-              Original text: Migración sitio web a Webflow (por página interna),
-              key: -390efab7
-            label: Text
-            name: '-390efab7'
-            widget: string
-          - hint: 'Original text: Naming: Creación de nombre, key: 1bf42022'
-            label: Text
-            name: 1bf42022
-            widget: string
-          - hint: 'Original text: Diseño de logotipo para proyecto, key: -77807608'
-            label: Text
-            name: '-77807608'
-            widget: string
-          - hint: 'Original text: Diseño submarca de proyecto, key: 3148bd4b'
-            label: Text
-            name: 3148bd4b
-            widget: string
-          - hint: 'Original text: Concepto visual y frase de campaña, key: 4dba9c78'
-            label: Text
-            name: 4dba9c78
-            widget: string
-          - hint: 'Original text: Diseño logotipo para campaña, key: 66e89e26'
-            label: Text
-            name: 66e89e26
-            widget: string
-          - hint: 'Original text: ¿Preguntas?, key: -798dff4b'
-            label: Text
-            name: '-798dff4b'
-            widget: string
-          - hint: 'Original text: preguntas frecuentes*, key: -4383ff5b'
-            label: Text
-            name: '-4383ff5b'
-            widget: string
-          - hint: >-
-              Original text: Sobre cómo funciona nuestro modelo de negocio,
-              planes de suscripción, tiempo de entrega de piezas, y más., key:
-              4849bb9
-            label: Text
-            name: 4849bb9
-            widget: text
-          - hint: 'Original text: ¿Tienes más preguntas?, key: 5631f48c'
-            label: Text
-            name: 5631f48c
-            widget: string
-          - hint: 'Original text: ¿Qué es Rola Design?, key: 11e53cab'
-            label: Text
-            name: 11e53cab
-            widget: string
-          - hint: >-
-              Original text: Rola Design es un servicio de suscripción de diseño
-              para empresas y agencias en crecimiento, que te permite acceder a
-              diversas habilidades de diseño con una tarifa transparente y una
-              mensualidad fija. , key: 208607b4
-            label: Text
-            name: 208607b4
-            widget: text
-          - hint: >-
-              Original text: Te permitimos escalar tus operaciones de diseño
-              rápidamente sin la molestia del empleo tradicional, altos costos
-              de una agencia, o de la informalidad de un freelancer., key:
-              -68f7d6d0
-            label: Text
-            name: '-68f7d6d0'
-            widget: text
-          - hint: >-
-              Original text: ¿Cómo sé qué plan es el adecuado para mí?, key:
-              -27dc8b41
-            label: Text
-            name: '-27dc8b41'
-            widget: string
-          - hint: >-
-              Original text: ¡Podemos ayudarte a orientarte! Simplemente , key:
-              -25c3c9e9
-            label: Text
-            name: '-25c3c9e9'
-            widget: string
-          - hint: 'Original text: agenda una llamada, key: 580e5e26'
-            label: Text
-            name: 580e5e26
-            widget: string
-          - hint: >-
-              Original text:  con nosotros y lo resolveremos según las
-              necesidades de tu equipo, así como el volumen y la velocidad de su
-              diseño esperado. Encontremos la mejor opción, juntos., key:
-              52b6b469
-            label: Text
-            name: 52b6b469
-            widget: text
-          - hint: >-
-              Original text: ¿Cómo funcionan los planes mensuales All
-              Inclusive?, key: 45a24c1c
-            label: Text
-            name: 45a24c1c
-            widget: string
-          - hint: >-
-              Original text: Describámoslo de esta manera: imagina que contratas
-              a un diseñador o desarrollador a tiempo completo con un salario
-              mensual. Mientras la persona trabaje para ti, puedes solicitar
-              todas tus tareas y proyectos, y trabajará en todas tus solicitudes
-              de una en una (porque la multitarea es un mito)., key: -181ebb48
-            label: Text
-            name: '-181ebb48'
-            widget: text
-          - hint: >-
-              Original text: Básicamente, tú decides qué tareas le delegas a
-              esta persona. Algunas tareas se realizarán en 30 minutos y algunos
-              proyectos pueden demorar varios días o semanas. El problema es que
-              este empleado tiene un número limitado de habilidades porque nadie
-              es bueno en todo. , key: -24b82b9a
-            label: Text
-            name: '-24b82b9a'
-            widget: text
-          - hint: >-
-              Original text: Con Rola Design, tienes acceso a un equipo de
-              diseñadores con experiecia en diversas especialidades. Nos hacemos
-              cargo de todas tus solicitudes y trabajamos en ellas una tras
-              otra, mientras que tu gerente de proyecto supervisa todo y se
-              asegura de que la persona adecuada haga el trabajo., key: 4c799070
-            label: Text
-            name: 4c799070
-            widget: text
-          - hint: >-
-              Original text: ¿Qué significa cuando hablan de piezas ilimitadas,
-              revisiones ilimitadas y marcas ilimitadas?, key: 6faf049b
-            label: Text
-            name: 6faf049b
-            widget: text
-          - hint: >-
-              Original text: Sin importar si tienes 1 o 10 marcas o clientes,
-              diseñamos todas las piezas que necesites y se , key: -1f1e1a16
-            label: Text
-            name: '-1f1e1a16'
-            widget: text
-          - hint: >-
-              Original text: producirán y se entregarán una por una de manera
-              secuencial, key: -40176a87
-            label: Text
-            name: '-40176a87'
-            widget: string
-          - hint: >-
-              Original text: . Esto significa que el límite de piezas que te
-              entregamos al mes está demarcado por la cantidad de piezas que
-              podemos producir de esta manera secuencial (dependiedo de la
-              complejidad de la solicitud)., key: -1c34738c
-            label: Text
-            name: '-1c34738c'
-            widget: text
-          - hint: >-
-              Original text: (Ej. 88 post de redes sociales al mes, ya que en
-              promedio entregamos 4 post al día)., key: 1ffe0072
-            label: Text
-            name: 1ffe0072
-            widget: string
-          - hint: >-
-              Original text: Si tu carga de trabajo es mayor, podemos ofrecerte
-              cargas de trabajo adicionales , key: 52c3b50c
-            label: Text
-            name: 52c3b50c
-            widget: string
-          - hint: 'Original text: o talentos, key: 4fb92061'
-            label: Text
-            name: 4fb92061
-            widget: string
-          - hint: >-
-              Original text: , con los cuales podrás solicitar que se entreguen
-              más de una pieza simultaneamente, con un costo adicional. , key:
-              -668ee704
-            label: Text
-            name: '-668ee704'
-            widget: text
-          - hint: >-
-              Original text: En otras palabras, usando el ejemplo de la pregunta
-              anterior, el plan All Inclusive es muy parecido a cuando contratas
-              a un diseñador inhouse. Por cada , key: 7e528795
-            label: Text
-            name: '7e528795'
-            widget: text
-          - hint: 'Original text: talento, key: -5c0592fd'
-            label: Text
-            name: '-5c0592fd'
-            widget: string
-          - hint: >-
-              Original text: , te entregamos tantas piezas al mes, como lo haría
-              1 diseñador inhouse, sumando la calidad, eficiencia, experiencia y
-              solidez de un equipo multidisciplinario., key: 5d0b9bf7
-            label: Text
-            name: 5d0b9bf7
-            widget: text
-          - hint: >-
-              Original text: ¿Hay un límite en la cantidad de solicitudes que
-              puedo pedir?, key: -55862f8
-            label: Text
-            name: '-55862f8'
-            widget: string
-          - hint: >-
-              Original text: Una vez te inscribes, puedes agregar tantas
-              solicitudes de diseño a su cola como desees, y , key: -38e56f4e
-            label: Text
-            name: '-38e56f4e'
-            widget: text
-          - hint: 'Original text: se entregarán una por una, key: -58d8e7c8'
-            label: Text
-            name: '-58d8e7c8'
-            widget: string
-          - hint: 'Original text: . , key: 5b2'
-            label: Text
-            name: 5b2
-            widget: string
-          - hint: >-
-              Original text: ¿Qué tan rápido recibiré mis diseños?, key:
-              -6570e901
-            label: Text
-            name: '-6570e901'
-            widget: string
-          - hint: >-
-              Original text: Depende de la complejidad de la solicitud. Una
-              pieza de redes sociales se entrega en pocas horas, o un landing
-              page en uno o dos días. , key: -fde45a0
-            label: Text
-            name: '-fde45a0'
-            widget: text
-          - hint: >-
-              Original text: En promedio, la mayoría de las solicitudes se
-              completan en solo dos días o menos. Sin embargo, las solicitudes
-              más complejas pueden tardar más., key: 5adf298b
-            label: Text
-            name: 5adf298b
-            widget: text
-          - hint: 'Original text: *Trabajamos de , key: -6ab3d2ff'
-            label: Text
-            name: '-6ab3d2ff'
-            widget: string
-          - hint: >-
-              Original text: lunes a viernes de 9:00 am a 6:00 p.m, key:
-              -129db7ea
-            label: Text
-            name: '-129db7ea'
-            widget: string
-          - hint: 'Original text: , hora Bogotá (UTC -5)., key: 89547a9'
-            label: Text
-            name: 89547a9
-            widget: string
-          - hint: >-
-              Original text: ¿Qué incluye el servicio de mantenimiento de sitios
-              web?, key: 34c38d3e
-            label: Text
-            name: 34c38d3e
-            widget: string
-          - hint: >-
-              Original text: Si tienes un sitio web el cual quieres crecer y
-              adaptar al mundo de hoy, te ofrecemos la capacidad de rediseñar y
-              actualizar tu sitio web de manera constante para que tenga un
-              look, contenido y funcionalidad que se ajustan a tus objetivos de
-              negocio del 2023 hacia adelante. , key: -ff24d95
-            label: Text
-            name: '-ff24d95'
-            widget: text
-          - hint: >-
-              Original text: Contamos con tecnología de punta que hará que tu
-              sitio web tenga tiempos de respuesta súper rápidos, las mejores
-              prácticas de UX/UI para responder de la mejor forma posible a tus
-              objetivos de negocio. , key: -2c794841
-            label: Text
-            name: '-2c794841'
-            widget: text
-          - hint: 'Original text: ¿Quiénes son lxs diseñadorxs?, key: 4951532'
-            label: Text
-            name: '4951532'
-            widget: string
-          - hint: >-
-              Original text: Somos diseñadorxs y creativxs, en su mayoría
-              mujeres, ofreciendo servicios de diseño desde Bogotá, Colombia.
-              Bogotá es reconocido como uno de los mejores hubs de diseño de
-              América Latina. Nuestro objetivo es contar con lxs mejores
-              diseñadorxs de la ciudad y de la región., key: -6639c82
-            label: Text
-            name: '-6639c82'
-            widget: text
-          - hint: >-
-              Original text: ¿Por qué no contrataría a un diseñador a tiempo
-              completo? ¿Cuál es la diferencia?, key: 92e127d
-            label: Text
-            name: 92e127d
-            widget: string
-          - hint: >-
-              Original text: ¡Buena pregunta! Para empezar, el costo anual de un
-              diseñador de alto nivel de tiempo completo es bastaste alto. Si
-              contratas según el modelo freelance por prestación de servicios,
-              hay que tener en cuenta los costos de los aportes, y riesgos a
-              nivel de responsabilidad contractual., key: 777f9033
-            label: Text
-            name: 777f9033
-            widget: text
-          - hint: >-
-              Original text: Aparte de eso, este diseñador puede que no sea
-              experto en todas las areas de diseño que necesita tu empresa, o es
-              posible que no siempre tengas suficiente trabajo para mantenerlos
-              ocupados en todo momento, por lo que debe pagar por el tiempo que
-              no puede utilizar., key: -685cefe1
-            label: Text
-            name: '-685cefe1'
-            widget: text
-          - hint: >-
-              Original text: Con nuestro plan mensual, cuentas con un equipo
-              integral de diseñadores y programadores expertos en diferentes
-              áreas. Adicional, te liberas de los riesgos y la carga que implica
-              contratar un freelance. Con nuestro modelo, puedes pausar y
-              reanudar tu suscripción con la frecuencia que necesites para
-              asegurarse de que solo nos pagas cuando tienes trabajo
-              disponible., key: 38b99fac
-            label: Text
-            name: 38b99fac
-            widget: text
-          - hint: 'Original text: estudio de diseño., key: 5db2277f'
-            label: Text
-            name: 5db2277f
+            name: '-33e4d5c7'
             widget: string
           - hint: 'Original text: Desde bogotá con amor., key: -6f35ef90'
             label: Text
             name: '-6f35ef90'
-            widget: string
-          - hint: 'Original text: Diseño web por , key: 2197fba4'
-            label: Text
-            name: 2197fba4
-            widget: string
-          - hint: 'Original text: Hello Machine, key: -285d3147'
-            label: Text
-            name: '-285d3147'
             widget: string
           - hint: 'Original text: Newsletter, key: -47761f27'
             label: Text
@@ -1327,6 +410,14 @@ collections:
           - hint: 'Original text: roladesign, key: -5efa5b50'
             label: Text
             name: '-5efa5b50'
+            widget: string
+          - hint: 'Original text: ©, key: a9'
+            label: Text
+            name: a9
+            widget: string
+          - hint: 'Original text: 2023 Rola Design., key: 68189e03'
+            label: Text
+            name: '68189e03'
             widget: string
           - hint: 'Original text: Protected Page, key: -11d4bbff'
             label: Text
@@ -1871,6 +962,14 @@ collections:
             label: Text
             name: 3d5ecb20
             widget: string
+          - hint: 'Original text: background-color-pink, key: 548c479f'
+            label: Text
+            name: 548c479f
+            widget: string
+          - hint: 'Original text: background-color-green, key: 3c81cdfa'
+            label: Text
+            name: 3c81cdfa
+            widget: string
           - hint: 'Original text: Max widths, key: -389eee37'
             label: Text
             name: '-389eee37'
@@ -2399,9 +1498,9 @@ collections:
             label: Text
             name: '-7ea0341'
             widget: string
-          - hint: 'Original text: +57 (315) 590-9541, key: -35c4b60d'
+          - hint: 'Original text: +57 (313) 454-5327, key: 6bc953d4'
             label: Text
-            name: '-35c4b60d'
+            name: 6bc953d4
             widget: string
           - hint: >-
               Original text: Cuéntanos un poco más sobre tu proyecto., key:
@@ -2419,6 +1518,1402 @@ collections:
             label: Text
             name: '-4646af3d'
             widget: string
+          - hint: 'Original text: diseño digital, key: -1ca99993'
+            label: Text
+            name: '-1ca99993'
+            widget: string
+          - hint: >-
+              Original text: ¡Dale superpoderes a tus equipos de marketing y
+              creatividad! Con nuestro servicio pueden crear cualquier cosa que
+              se les ocurra, desde piezas para redes sociales y tus anuncios,
+              presentaciones, mailing, hasta landing pages., key: 3056189e
+            label: Text
+            name: 3056189e
+            widget: text
+          - hint: 'Original text: Ver precios, key: 556cfa50'
+            label: Text
+            name: 556cfa50
+            widget: string
+          - hint: >-
+              Original text: Nuestro modelo mensual All Inclusive y planes de
+              precio por pieza de Rola Design, garantizan una alta eficiencia y
+              productividad, que te permitirá ahorrar costos y tiempos de
+              producción., key: -4c8a3158
+            label: Text
+            name: '-4c8a3158'
+            widget: text
+          - hint: >-
+              Original text: Al suscribirte a cualquiera de nuestros planes de
+              suscripción, obtendrás acceso a un equipo creativo dedicado, que
+              incluye un gerente de proyecto, un director de diseño y un equipo
+              modular de creativos para satisfacer las necesidades únicas de sus
+              proyectos., key: -3f736cc1
+            label: Text
+            name: '-3f736cc1'
+            widget: text
+          - hint: 'Original text: rola vs. contratar directo, key: 47f6c62d'
+            label: Text
+            name: 47f6c62d
+            widget: string
+          - hint: >-
+              Original text: Contratar un diseñador de tiempo completo es
+              costoso, incluso en el modelo freelance hay costos adicionales y
+              riesgos. Además, un solo diseñador puede que no tenga todas las
+              habilidades necesarias o puede que no siempre tenga suficiente
+              trabajo., key: -20d3538b
+            label: Text
+            name: '-20d3538b'
+            widget: text
+          - hint: >-
+              Original text: Con nuestro plan mensual, tendrás un equipo
+              completo de diseñadores y programadores expertos en diferentes
+              áreas. Eliminamos los riesgos y cargas de contratar un freelancer
+              y solo pagas cuando hay trabajo disponible, ya que puedes pausar y
+              reanudar tu suscripción según sea necesario., key: 3670e26b
+            label: Text
+            name: 3670e26b
+            widget: text
+          - hint: 'Original text: servicios de diseño digital, key: 23cb40e9'
+            label: Text
+            name: 23cb40e9
+            widget: string
+          - hint: >-
+              Original text: Desde piezas para redes sociales y tus anuncios,
+              presentaciones, mailing, hasta landing pages., key: 48bea60e
+            label: Text
+            name: 48bea60e
+            widget: text
+          - hint: 'Original text: piezas para redes sociales, key: 7669f41c'
+            label: Text
+            name: 7669f41c
+            widget: string
+          - hint: >-
+              Original text: Piezas estáticas y dinámicas para redes sociales. ,
+              key: 52c6234d
+            label: Text
+            name: 52c6234d
+            widget: string
+          - hint: 'Original text: Piezas para publicidad digital, key: -40737f41'
+            label: Text
+            name: '-40737f41'
+            widget: string
+          - hint: >-
+              Original text: Piezas estáticas y dinámicas para tus canales de
+              publicidad digital., key: 3ba26274
+            label: Text
+            name: 3ba26274
+            widget: string
+          - hint: 'Original text: Presentaciones en diapositivas, key: -78a2350e'
+            label: Text
+            name: '-78a2350e'
+            widget: string
+          - hint: >-
+              Original text: Diseño de diapositivas para tus presentaciones.,
+              key: -32a885af
+            label: Text
+            name: '-32a885af'
+            widget: string
+          - hint: 'Original text: diseño de Sitios web, key: -20291029'
+            label: Text
+            name: '-20291029'
+            widget: string
+          - hint: >-
+              Original text: Diseño de sitios web desde cero, o basado en
+              nuestra biblioteca de recursos., key: -212e079c
+            label: Text
+            name: '-212e079c'
+            widget: string
+          - hint: 'Original text: diseño de Landings, key: 5fea07f0'
+            label: Text
+            name: 5fea07f0
+            widget: string
+          - hint: >-
+              Original text: Diseño de landings desde cero, o basadas en nuestra
+              biblioteca de recursos., key: -f22f92
+            label: Text
+            name: '-f22f92'
+            widget: string
+          - hint: 'Original text: producción de video, key: -11ff836a'
+            label: Text
+            name: '-11ff836a'
+            widget: string
+          - hint: >-
+              Original text: Desde la pre-producción hasta la post-producción.,
+              key: -240eb9a5
+            label: Text
+            name: '-240eb9a5'
+            widget: string
+          - hint: 'Original text: mailing, key: 3187a2cb'
+            label: Text
+            name: 3187a2cb
+            widget: string
+          - hint: >-
+              Original text: Piezas de email marketing originales y plantillas
+              para captar la atención de tus contactos., key: 5956cead
+            label: Text
+            name: 5956cead
+            widget: text
+          - hint: 'Original text: Animaciones, key: -7546637d'
+            label: Text
+            name: '-7546637d'
+            widget: string
+          - hint: >-
+              Original text: Gráficos en movimiento diseñados para estar en
+              línea con su marca y mejorar su sitio web, campañas digitales,
+              presentaciones y anuncios., key: -7704c96a
+            label: Text
+            name: '-7704c96a'
+            widget: text
+          - hint: 'Original text: storytelling, key: -5d011c04'
+            label: Text
+            name: '-5d011c04'
+            widget: string
+          - hint: >-
+              Original text: Crear una narrativa emocionalmente atractiva y
+              coherente para comunicar la identidad y valores de una marca.,
+              key: -5465189e
+            label: Text
+            name: '-5465189e'
+            widget: text
+          - hint: 'Original text: ¿Cómo funciona?, key: -1bdeffad'
+            label: Text
+            name: '-1bdeffad'
+            widget: string
+          - hint: >-
+              Original text: La manera más rápida de contratar tu equipo
+              creativo y comenzar a diseñar., key: -4a8644ef
+            label: Text
+            name: '-4a8644ef'
+            widget: string
+          - hint: 'Original text: 01, key: 601'
+            label: Text
+            name: '601'
+            widget: string
+          - hint: 'Original text: suscribete a uno de nuestros planes, key: -71d60d73'
+            label: Text
+            name: '-71d60d73'
+            widget: string
+          - hint: >-
+              Original text: Ya sea que necesites todo tipo de producción
+              creativa de Diseño Digital, o estratégia y diseño para tus redes
+              sociales, elije el plan que se acomoda a tus necesidades. , key:
+              373e67f0
+            label: Text
+            name: 373e67f0
+            widget: text
+          - hint: 'Original text: ‍, key: 200d'
+            label: Text
+            name: 200d
+            widget: string
+          - hint: 'Original text: Contáctanos, key: -2702e0af'
+            label: Text
+            name: '-2702e0af'
+            widget: string
+          - hint: |-
+              Original text:  para ayudarte el elegir el mejor plan para ti.
+                                        , key: 552e5ed2
+            label: Text
+            name: 552e5ed2
+            widget: string
+          - hint: 'Original text: 02, key: 602'
+            label: Text
+            name: '602'
+            widget: string
+          - hint: 'Original text: SOLICITA TUS DISEÑOS, key: -3405a324'
+            label: Text
+            name: '-3405a324'
+            widget: string
+          - hint: >-
+              Original text: Sin importar el plan al que te hayas inscrito,
+              tendrás acceso a un Project Manager que te apoyará en todo momento
+              para gestionar tus diseños. Este será el puente entre nuestros
+              diseñadores y tú. , key: -282986ee
+            label: Text
+            name: '-282986ee'
+            widget: text
+          - hint: >-
+              Original text: Te apoyará en planear, organizar, dimensionar y
+              priorizar tus proyectos., key: 75120157
+            label: Text
+            name: '75120157'
+            widget: string
+          - hint: 'Original text: 03, key: 603'
+            label: Text
+            name: '603'
+            widget: string
+          - hint: 'Original text: RECIBE TUS DISEÑOS, key: 6c25730c'
+            label: Text
+            name: 6c25730c
+            widget: string
+          - hint: >-
+              Original text: Recibe tus diseños super rápido. Normalmente nos
+              toma entre 12 y 24 horas para diseñar tus proyectos. A medida que
+              van quedando listos, te notificaremos para que puedas revisarlos.,
+              key: -4acef60
+            label: Text
+            name: '-4acef60'
+            widget: text
+          - hint: >-
+              Original text: Recuerda que tienes derecho a cuantas revisiones
+              sean necesarias para lograr tu satisfacción. Trabajamos de lunes a
+              viernes., key: 1bb0689e
+            label: Text
+            name: 1bb0689e
+            widget: text
+          - hint: 'Original text: 04, key: 604'
+            label: Text
+            name: '604'
+            widget: string
+          - hint: >-
+              Original text: ¡APRUEBA EL DISEÑO Y PASAMOS AL SIGUIENTE!, key:
+              -724287bf
+            label: Text
+            name: '-724287bf'
+            widget: string
+          - hint: >-
+              Original text: Cuando estés satisfecho con nuestro trabajo y hayas
+              aprobado el diseño, pasaremos a trabajar en tu siguiente
+              proyecto., key: 4e810ae0
+            label: Text
+            name: 4e810ae0
+            widget: text
+          - hint: >-
+              Original text: Recuerda que realizamos un proyecto a la vez. Si
+              necesitas mayor capacidad de trabajo para realizar más proyectos
+              simultaneamente, consulta con nosotros., key: -30bf7076
+            label: Text
+            name: '-30bf7076'
+            widget: text
+          - hint: 'Original text: precios predecibles, sin sorpresas., key: -578245ff'
+            label: Text
+            name: '-578245ff'
+            widget: string
+          - hint: >-
+              Original text: Para empresas y agencias que necesitan acceso a
+              servicios de diseño digital y de redes sociales bajo demanda,
+              fiables y de calidad., key: 323bd7a9
+            label: Text
+            name: 323bd7a9
+            widget: text
+          - hint: 'Original text: diseño digital esencial, key: -41d72245'
+            label: Text
+            name: '-41d72245'
+            widget: string
+          - hint: 'Original text: Sin compromiso mínimo. , key: 5a8965e3'
+            label: Text
+            name: 5a8965e3
+            widget: string
+          - hint: 'Original text: Demo disponible., key: 4f8811e'
+            label: Text
+            name: 4f8811e
+            widget: string
+          - hint: 'Original text: Precios en $COP, key: -125edf7c'
+            label: Text
+            name: '-125edf7c'
+            widget: string
+          - hint: 'Original text: $4.000.000, key: 627e4a14'
+            label: Text
+            name: 627e4a14
+            widget: string
+          - hint: 'Original text: /mes, key: 17034c'
+            label: Text
+            name: 17034c
+            widget: string
+          - hint: >-
+              Original text: Pausa o cancela en cualquier momento., key:
+              -391d2077
+            label: Text
+            name: '-391d2077'
+            widget: string
+          - hint: 'Original text: Cotizar, key: -63c05976'
+            label: Text
+            name: '-63c05976'
+            widget: string
+          - hint: 'Original text: Agendar llamada, key: -1c483ce8'
+            label: Text
+            name: '-1c483ce8'
+            widget: string
+          - hint: >-
+              Original text: Sin contratos. Pausa o cancela en cualquier
+              momento., key: -6add4138
+            label: Text
+            name: '-6add4138'
+            widget: string
+          - hint: 'Original text: Revisiones ilimitadas*, key: -2268da34'
+            label: Text
+            name: '-2268da34'
+            widget: string
+          - hint: 'Original text: Una solicitud activa a la vez*, key: 5139d1a1'
+            label: Text
+            name: 5139d1a1
+            widget: string
+          - hint: 'Original text: Project Manager dedicado, key: 64918a9'
+            label: Text
+            name: 64918a9
+            widget: string
+          - hint: 'Original text: Tiempo rápido de entrega, key: 6c3b0582'
+            label: Text
+            name: 6c3b0582
+            widget: string
+          - hint: 'Original text: Diseño de ebooks y reportes, key: 75948e10'
+            label: Text
+            name: '75948e10'
+            widget: string
+          - hint: 'Original text: Diseño de mailing, key: 157a597'
+            label: Text
+            name: 157a597
+            widget: string
+          - hint: 'Original text: Diseño de presentaciones, key: 25beca6d'
+            label: Text
+            name: 25beca6d
+            widget: string
+          - hint: 'Original text: Storytelling, key: -5335c7e4'
+            label: Text
+            name: '-5335c7e4'
+            widget: string
+          - hint: 'Original text: Desarrollo de landing pages, key: -439de6b3'
+            label: Text
+            name: '-439de6b3'
+            widget: string
+          - hint: >-
+              Original text: Diseño de posts, reels stories y carrusel, key:
+              -144eca2f
+            label: Text
+            name: '-144eca2f'
+            widget: string
+          - hint: 'Original text: Piezas para redes sociales, key: 3b3f903c'
+            label: Text
+            name: 3b3f903c
+            widget: string
+          - hint: 'Original text: Diseño de landing pages, key: -6f4f35b9'
+            label: Text
+            name: '-6f4f35b9'
+            widget: string
+          - hint: 'Original text: Piezas para pauta digital, key: 6f79f9a9'
+            label: Text
+            name: 6f79f9a9
+            widget: string
+          - hint: 'Original text: Diseño animaciones, key: 3ea2f698'
+            label: Text
+            name: 3ea2f698
+            widget: string
+          - hint: 'Original text: Producción de video, key: 38b44476'
+            label: Text
+            name: 38b44476
+            widget: string
+          - hint: 'Original text: All-inclusive, key: 366870a0'
+            label: Text
+            name: 366870a0
+            widget: string
+          - hint: 'Original text: $6''000.000, key: -4c211203'
+            label: Text
+            name: '-4c211203'
+            widget: string
+          - hint: 'Original text: Para campañas digitales, key: 2adb57e9'
+            label: Text
+            name: 2adb57e9
+            widget: string
+          - hint: 'Original text: $5''000.000, key: 1f9a7efc'
+            label: Text
+            name: 1f9a7efc
+            widget: string
+          - hint: 'Original text: diseño para redes sociales, key: -74ec900f'
+            label: Text
+            name: '-74ec900f'
+            widget: string
+          - hint: >-
+              Original text: Lorem ipsum dolor sit amet, consectetur adipiscing
+              elit. Suspendisse varius enim in eros elementum tristique. , key:
+              -7d05bb15
+            label: Text
+            name: '-7d05bb15'
+            widget: text
+          - hint: 'Original text: hablemos, key: -13ece9f1'
+            label: Text
+            name: '-13ece9f1'
+            widget: string
+          - hint: 'Original text: ver precios, key: -dfcad90'
+            label: Text
+            name: '-dfcad90'
+            widget: string
+          - hint: >-
+              Original text: tu equipo de gestión de redes sociales, key:
+              -57fb9ddd
+            label: Text
+            name: '-57fb9ddd'
+            widget: string
+          - hint: 'Original text: Creación de parrilla, key: -64cd176c'
+            label: Text
+            name: '-64cd176c'
+            widget: string
+          - hint: >-
+              Original text: La publicación regular en las redes sociales es
+              clave para mantener su marca en la mente y atraer a su audiencia.
+              Te apoyamos en la creación de una parrilla para tus redes sociales
+              planificando y organizando Planificamos y organizamos el contenido
+              que se publicará según la frecuencia ideal para alcanzar tus
+              objetivos., key: -6a6d438c
+            label: Text
+            name: '-6a6d438c'
+            widget: text
+          - hint: 'Original text: Diseño de piezas de redes, key: -3869ad94'
+            label: Text
+            name: '-3869ad94'
+            widget: string
+          - hint: >-
+              Original text: Crear publicaciones atractivas y bien diseñadas
+              requiere una inversión sustancial en tiempo y esfuerzo. Diseñamos
+              piezas estáticas, animadas, carruseles, y Stories, para todas tus
+              redes sociales, que impactan y captan la atención de tu público.,
+              key: 4810e8ed
+            label: Text
+            name: 4810e8ed
+            widget: text
+          - hint: 'Original text: Tu Equipo de diseño dedicado, key: -76a1b183'
+            label: Text
+            name: '-76a1b183'
+            widget: string
+          - hint: >-
+              Original text: Entre el costo de contratar, retener, apoyar y
+              hacer crecer las carreras de diseñadores y creativos, termina
+              siendo mucho dinero. Con Rola obtendrás acceso a un equipo
+              creativo dedicado, que incluye un gerente de proyecto, un director
+              de diseño y un equipo modular de creativos., key: 74673516
+            label: Text
+            name: '74673516'
+            widget: text
+          - hint: 'Original text: creative-as-a-service, key: -30148534'
+            label: Text
+            name: '-30148534'
+            widget: string
+          - hint: >-
+              Original text: Un modelo de suscripción único que puede ayudar a
+              tus equipos de marketing y creatividad a obtener los creativos en
+              diseño digital, web y de redes sociales que necesitas para crecer
+              de manera más eficiente., key: 3ff88402
+            label: Text
+            name: 3ff88402
+            widget: text
+          - hint: >-
+              Original text: Ya sea que necesites todo tipo de producción
+              creativa de Diseño Digital, o estratégia y diseño para tus redes
+              sociales, o diseño y desarrollo de sitios web, elije el plan que
+              se acomoda a tus necesidades. , key: -64a92738
+            label: Text
+            name: '-64a92738'
+            widget: text
+          - hint: >-
+              Original text: Para empresas y agencias que necesitan acceso a
+              servicios creativos y de diseño de redes sociales bajo demanda,
+              fiables y de calidad., key: 7b210aeb
+            label: Text
+            name: 7b210aeb
+            widget: text
+          - hint: 'Original text: Plan X3, key: 45c75312'
+            label: Text
+            name: 45c75312
+            widget: string
+          - hint: 'Original text: 3 publicaciones en la semana., key: -7bd354a1'
+            label: Text
+            name: '-7bd354a1'
+            widget: string
+          - hint: 'Original text: Incluye creación de parrilla., key: 2f033ced'
+            label: Text
+            name: 2f033ced
+            widget: string
+          - hint: 'Original text: $1.450.000, key: -7e2ddad0'
+            label: Text
+            name: '-7e2ddad0'
+            widget: string
+          - hint: 'Original text: 3 publicaciones a la semana, key: 7b6df6a3'
+            label: Text
+            name: 7b6df6a3
+            widget: string
+          - hint: >-
+              Original text: Creación de parrilla orientada a objetivos de
+              comunicación previamente acordados, key: -194900cc
+            label: Text
+            name: '-194900cc'
+            widget: string
+          - hint: 'Original text: Diseño de piezas, key: -aeb632c'
+            label: Text
+            name: '-aeb632c'
+            widget: string
+          - hint: 'Original text: Administración de redes, key: -4ae1a10b'
+            label: Text
+            name: '-4ae1a10b'
+            widget: string
+          - hint: 'Original text: Soporte + tips, key: 6e487a25'
+            label: Text
+            name: 6e487a25
+            widget: string
+          - hint: >-
+              Original text: Publicación y seguimiento de contenido, key:
+              3338fe7f
+            label: Text
+            name: 3338fe7f
+            widget: string
+          - hint: >-
+              Original text: Actualización y mantenimiento de sitios web, key:
+              4ff4cae4
+            label: Text
+            name: 4ff4cae4
+            widget: string
+          - hint: >-
+              Original text: Atención, gestión y segimiento de PQRS en redes,
+              key: 26104580
+            label: Text
+            name: '26104580'
+            widget: string
+          - hint: >-
+              Original text: Creación, ajustes solicitados por el cliente y
+              seguimiento, key: -6a950e07
+            label: Text
+            name: '-6a950e07'
+            widget: string
+          - hint: "Original text: Optimización de pauta para Meta\_ADS (Facebook ADS), key: d65e25e"
+            label: Text
+            name: d65e25e
+            widget: string
+          - hint: >-
+              Original text: Elaboración de informes mensuales de canales, key:
+              13697dcc
+            label: Text
+            name: 13697dcc
+            widget: string
+          - hint: >-
+              Original text: Optmización de contenido a partir de análisis de
+              informes, key: 2bd8c9f9
+            label: Text
+            name: 2bd8c9f9
+            widget: string
+          - hint: 'Original text: Plan X5, key: 45c75314'
+            label: Text
+            name: 45c75314
+            widget: string
+          - hint: 'Original text: 5 publicaciones en la semana., key: -29338b9f'
+            label: Text
+            name: '-29338b9f'
+            widget: string
+          - hint: 'Original text: $1''800.000, key: 75ba9d00'
+            label: Text
+            name: 75ba9d00
+            widget: string
+          - hint: 'Original text: Plan X7, key: 45c75316'
+            label: Text
+            name: 45c75316
+            widget: string
+          - hint: 'Original text: 7 publicaciones en la semana., key: 296c3d63'
+            label: Text
+            name: 296c3d63
+            widget: string
+          - hint: 'Original text: $2.190.000, key: 7e3744ea'
+            label: Text
+            name: 7e3744ea
+            widget: string
+          - hint: 'Original text: diseño de sitios web, key: 690513b7'
+            label: Text
+            name: 690513b7
+            widget: string
+          - hint: >-
+              Original text: Diseño y desarrollo de sitios web y landing pages.
+              , key: -33726f77
+            label: Text
+            name: '-33726f77'
+            widget: string
+          - hint: >-
+              Original text: Entrega y revisiones súper rápidas, y altos
+              estándares de calidad a un precio transparente sin sorpresas.,
+              key: 36001bac
+            label: Text
+            name: 36001bac
+            widget: text
+          - hint: 'Original text: heablemos, key: -fc35826'
+            label: Text
+            name: '-fc35826'
+            widget: string
+          - hint: >-
+              Original text: diseño web DESDE CERO, O BASADO EN NUESTRA LIBRERÍA
+              DE RECURSOS., key: 6d724b4e
+            label: Text
+            name: 6d724b4e
+            widget: string
+          - hint: >-
+              Original text: Diseño y desarrollo de sitios web y landing pages,
+              key: 5f505497
+            label: Text
+            name: 5f505497
+            widget: string
+          - hint: >-
+              Original text: El sitio web de una marca, es una oportunidad para
+              que se destaque. Entonces, ¿por qué conformarse con algo aburrido?
+              Nos enorgullecemos de construir sitios web cuidadosamente
+              diseñados, guíandonos en lás últimas tendecias y las mejores
+              prácticas en diseño UI/UX, y la mejor plataforma de desarrollo. ,
+              key: 14fdd33d
+            label: Text
+            name: 14fdd33d
+            widget: text
+          - hint: 'Original text: Desarrollo de diseños existentes, key: -28a73b8e'
+            label: Text
+            name: '-28a73b8e'
+            widget: string
+          - hint: >-
+              Original text: Ya sea que ya tengas tu diseño, nosotros lo hayamos
+              diseñado o elijas una plantilla de nuestra biblioteca, creamos
+              sitios web con la más alta calidad, estructura, y píxeles
+              perfectos, en un tiempo de desarrollo súper rápido. , key:
+              6068a3f7
+            label: Text
+            name: 6068a3f7
+            widget: text
+          - hint: >-
+              Original text: migración de sitios de Wordpress a webflow, key:
+              -7ed798ec
+            label: Text
+            name: '-7ed798ec'
+            widget: string
+          - hint: >-
+              Original text: Ya sea que tu sitio de WordPress corra muy lento, o
+              estés aburrid@ del CMS y quieras migrar a otra plataforma.
+              Migramos tu sitio web a Webflow y Netlify, la mejor plataforma de
+              desarrollo que hará que tu sitio web responda a la máxima
+              velocidad, y actualizar su contenido sea una tarea fácil., key:
+              -1fb6378e
+            label: Text
+            name: '-1fb6378e'
+            widget: text
+          - hint: >-
+              Original text: Biblioteca de sitios y módulos pre-fabricados, key:
+              67335510
+            label: Text
+            name: '67335510'
+            widget: string
+          - hint: >-
+              Original text: Contamos con una biblioteca de sitios web, landing
+              pages, módulos de precios, galerias, CTAs, Testimonials, FAQs,
+              Blogs y más, previamente construidos que hará que podamos adaptar
+              y mejorar el potencial de tu sitio web en cuestión de horas, no de
+              meses. , key: 1d548cfb
+            label: Text
+            name: 1d548cfb
+            widget: text
+          - hint: >-
+              Original text: rola vs. otros servicios de diseño web, key:
+              -5c4941a7
+            label: Text
+            name: '-5c4941a7'
+            widget: string
+          - hint: 'Original text: Diseño y desarrollo web, key: -2df564eb'
+            label: Text
+            name: '-2df564eb'
+            widget: string
+          - hint: 'Original text: $3.000.000, key: -31c624ed'
+            label: Text
+            name: '-31c624ed'
+            widget: string
+          - hint: 'Original text: Proyectos ilimitados al mes*, key: -22d979f1'
+            label: Text
+            name: '-22d979f1'
+            widget: string
+          - hint: 'Original text: Marcas ilimitadas*, key: 3cc7fcba'
+            label: Text
+            name: 3cc7fcba
+            widget: string
+          - hint: 'Original text: Diseño y desarrollo de sitios web, key: -4d33e5d'
+            label: Text
+            name: '-4d33e5d'
+            widget: string
+          - hint: >-
+              Original text: Diseño y desarrollorro de landing pages, key:
+              -45f9f932
+            label: Text
+            name: '-45f9f932'
+            widget: string
+          - hint: 'Original text: Desarrollo responsive para móviles, key: -5fd5ac84'
+            label: Text
+            name: '-5fd5ac84'
+            widget: string
+          - hint: 'Original text: Estructura básica de SEO, key: 7ccc395'
+            label: Text
+            name: 7ccc395
+            widget: string
+          - hint: 'Original text: Desarrollo en WordPress o Webflow, key: -6eaf94fc'
+            label: Text
+            name: '-6eaf94fc'
+            widget: string
+          - hint: 'Original text: Migraciones a Webflow, key: 71637790'
+            label: Text
+            name: '71637790'
+            widget: string
+          - hint: 'Original text: Integraciones, key: -31bcd52d'
+            label: Text
+            name: '-31bcd52d'
+            widget: string
+          - hint: 'Original text: Acceso a nuestra librería de Figma, key: 1217fcfa'
+            label: Text
+            name: 1217fcfa
+            widget: string
+          - hint: >-
+              Original text: Desarrollamos tus diseños hechos en .PSD, .AI,
+              Figma, y XD, key: -3bed6c87
+            label: Text
+            name: '-3bed6c87'
+            widget: string
+          - hint: 'Original text: Mantenimiento de 1 Sitio Web, key: -6a9b4b9c'
+            label: Text
+            name: '-6a9b4b9c'
+            widget: string
+          - hint: 'Original text: Precio por 1 sitio web, key: -4631e87e'
+            label: Text
+            name: '-4631e87e'
+            widget: string
+          - hint: 'Original text: $500.000, key: -1c08c2ed'
+            label: Text
+            name: '-1c08c2ed'
+            widget: string
+          - hint: >-
+              Original text: Actualización y mantenimiento de 1 sitio web, key:
+              a1975e8
+            label: Text
+            name: a1975e8
+            widget: string
+          - hint: >-
+              Original text: Solicitudes ilimitadas* de actualización de
+              contenido, key: 5e04598b
+            label: Text
+            name: 5e04598b
+            widget: string
+          - hint: >-
+              Original text: Solicitudes ilimitadas* de rediseño de páginas,
+              key: -67fb3bee
+            label: Text
+            name: '-67fb3bee'
+            widget: string
+          - hint: 'Original text: Una solicitud activa a la vez, key: -de55c57'
+            label: Text
+            name: '-de55c57'
+            widget: string
+          - hint: 'Original text: Wordpress o Webflow, key: -60e4c56'
+            label: Text
+            name: '-60e4c56'
+            widget: string
+          - hint: "Original text: Migración de WordPress u otro CMS\_a Webflow, key: 658c443a"
+            label: Text
+            name: 658c443a
+            widget: string
+          - hint: 'Original text: Mejora de velocidad de carga, key: 15a5c0eb'
+            label: Text
+            name: 15a5c0eb
+            widget: string
+          - hint: >-
+              Original text: Adaptación de sitio web a dispositivos móbiles,
+              key: 76769035
+            label: Text
+            name: '76769035'
+            widget: string
+          - hint: >-
+              Original text: Sin contratos. Pausa o concela en cualquier
+              momento., key: -3f6eda06
+            label: Text
+            name: '-3f6eda06'
+            widget: string
+          - hint: >-
+              Original text: Acceso a nuestra librería de componentes de Figma,
+              key: -2e9a5a94
+            label: Text
+            name: '-2e9a5a94'
+            widget: string
+          - hint: 'Original text: Redes Sociales, key: -3b5ea8e4'
+            label: Text
+            name: '-3b5ea8e4'
+            widget: string
+          - hint: 'Original text: Precio por pieza de diseño, key: 5a6d2040'
+            label: Text
+            name: 5a6d2040
+            widget: string
+          - hint: 'Original text: $2''800.000, key: 9ff0c01'
+            label: Text
+            name: 9ff0c01
+            widget: string
+          - hint: 'Original text: Piezas ilimitadas al mes*, key: -44126c35'
+            label: Text
+            name: '-44126c35'
+            widget: string
+          - hint: 'Original text: Gráficos para redes sociales, key: -54451596'
+            label: Text
+            name: '-54451596'
+            widget: string
+          - hint: 'Original text: Diseño de ebooks, key: -1e0ef2e7'
+            label: Text
+            name: '-1e0ef2e7'
+            widget: string
+          - hint: 'Original text: Diseño de impresos y publiexterior, key: 70c91b5d'
+            label: Text
+            name: 70c91b5d
+            widget: string
+          - hint: >-
+              Original text: (el desarrollo se cobra aparte: $300.000 por
+              página)., key: -6de06899
+            label: Text
+            name: '-6de06899'
+            widget: string
+          - hint: 'Original text: Diseño de sitios web, key: 74ca47d7'
+            label: Text
+            name: 74ca47d7
+            widget: string
+          - hint: >-
+              Original text: (el desarrollo se cobra aparte: $300.000 por página
+              interna)., key: -14c6a2ea
+            label: Text
+            name: '-14c6a2ea'
+            widget: string
+          - hint: 'Original text: $2.000.000, key: 39f56c12'
+            label: Text
+            name: 39f56c12
+            widget: string
+          - hint: 'Original text: diseño digital escencial, key: -719cd504'
+            label: Text
+            name: '-719cd504'
+            widget: string
+          - hint: 'Original text: $3''500.000, key: -6f36c1'
+            label: Text
+            name: '-6f36c1'
+            widget: string
+          - hint: 'Original text: Desarrollo de sitios web, key: -558b396f'
+            label: Text
+            name: '-558b396f'
+            widget: string
+          - hint: 'Original text: Diseño digital All-inclusive, key: 5b98dc4d'
+            label: Text
+            name: 5b98dc4d
+            widget: string
+          - hint: 'Original text: Diseño para campañas digitales, key: -15b2c582'
+            label: Text
+            name: '-15b2c582'
+            widget: string
+          - hint: 'Original text: tiempo de producción, key: 5116b6e1'
+            label: Text
+            name: 5116b6e1
+            widget: string
+          - hint: 'Original text: (estimado), key: 64df1ff'
+            label: Text
+            name: 64df1ff
+            widget: string
+          - hint: 'Original text: precio por pieza, key: f6f54c'
+            label: Text
+            name: f6f54c
+            widget: string
+          - hint: 'Original text: (COP$), key: 481719c1'
+            label: Text
+            name: 481719c1
+            widget: string
+          - hint: 'Original text: Redes sociales, key: -3f390d04'
+            label: Text
+            name: '-3f390d04'
+            widget: string
+          - hint: 'Original text: Post, key: 260cc0'
+            label: Text
+            name: 260cc0
+            widget: string
+          - hint: 'Original text: Tiempo Prod., key: -483c48cd'
+            label: Text
+            name: '-483c48cd'
+            widget: string
+          - hint: 'Original text:  2 horas, key: -725a03d1'
+            label: Text
+            name: '-725a03d1'
+            widget: string
+          - hint: 'Original text: $, key: 24'
+            label: Text
+            name: '24'
+            widget: string
+          - hint: 'Original text: 50.000, key: 5d2ae45d'
+            label: Text
+            name: 5d2ae45d
+            widget: string
+          - hint: 'Original text: Reels Instagram, key: 228181ab'
+            label: Text
+            name: 228181ab
+            widget: string
+          - hint: 'Original text:  4 horas, key: -88d8d4f'
+            label: Text
+            name: '-88d8d4f'
+            widget: string
+          - hint: 'Original text: 80.000, key: 62496e3a'
+            label: Text
+            name: 62496e3a
+            widget: string
+          - hint: 'Original text: Instagram Stories, key: 92a09a5'
+            label: Text
+            name: 92a09a5
+            widget: string
+          - hint: 'Original text: Tiempo Prod. , key: 40b32f4d'
+            label: Text
+            name: 40b32f4d
+            widget: string
+          - hint: 'Original text: 2 horas, key: -6e7f9fb1'
+            label: Text
+            name: '-6e7f9fb1'
+            widget: string
+          - hint: 'Original text: 40.000 , key: 134b6c22'
+            label: Text
+            name: 134b6c22
+            widget: string
+          - hint: 'Original text: Portadas de perfil, key: -fb2359f'
+            label: Text
+            name: '-fb2359f'
+            widget: string
+          - hint: 'Original text: 1 día, key: 2c2a009'
+            label: Text
+            name: 2c2a009
+            widget: string
+          - hint: 'Original text: 65.000 , key: -7a5fe241'
+            label: Text
+            name: '-7a5fe241'
+            widget: string
+          - hint: 'Original text: Carrusel, key: 4310c03'
+            label: Text
+            name: 4310c03
+            widget: string
+          - hint: 'Original text: 4 horas, key: -4b3292f'
+            label: Text
+            name: '-4b3292f'
+            widget: string
+          - hint: 'Original text: 120.000 , key: -746773b1'
+            label: Text
+            name: '-746773b1'
+            widget: string
+          - hint: 'Original text: Digital, key: -39ce7a08'
+            label: Text
+            name: '-39ce7a08'
+            widget: string
+          - hint: 'Original text: Mailing, key: -6b3fc555'
+            label: Text
+            name: '-6b3fc555'
+            widget: string
+          - hint: 'Original text: 150.000, key: 7d3c3bce'
+            label: Text
+            name: 7d3c3bce
+            widget: string
+          - hint: 'Original text: Banner, key: 762a6b4c'
+            label: Text
+            name: 762a6b4c
+            widget: string
+          - hint: 'Original text: 1 días, key: 5591618a'
+            label: Text
+            name: 5591618a
+            widget: string
+          - hint: 'Original text: 90.000, key: 63fe46d9'
+            label: Text
+            name: 63fe46d9
+            widget: string
+          - hint: 'Original text: Animación, key: -45ea6eef'
+            label: Text
+            name: '-45ea6eef'
+            widget: string
+          - hint: 'Original text: 2 días, key: 57463a29'
+            label: Text
+            name: 57463a29
+            widget: string
+          - hint: 'Original text: Video, key: 4ed245b'
+            label: Text
+            name: 4ed245b
+            widget: string
+          - hint: 'Original text: Según solicitud, key: -14633313'
+            label: Text
+            name: '-14633313'
+            widget: string
+          - hint: 'Original text: Desde, key: 3ede3f3'
+            label: Text
+            name: 3ede3f3
+            widget: string
+          - hint: 'Original text: Presentaciones (por slide), key: 64d7ae66'
+            label: Text
+            name: 64d7ae66
+            widget: string
+          - hint: 'Original text: 5 slides por día, key: 3612bb38'
+            label: Text
+            name: 3612bb38
+            widget: string
+          - hint: 'Original text: 35.000, key: 5a07a8a4'
+            label: Text
+            name: 5a07a8a4
+            widget: string
+          - hint: 'Original text: Firma de correo electrónico, key: -4323a471'
+            label: Text
+            name: '-4323a471'
+            widget: string
+          - hint: 'Original text: 25.000, key: 5852d005'
+            label: Text
+            name: 5852d005
+            widget: string
+          - hint: 'Original text: DISEÑO WEB, key: -7bdcd1f7'
+            label: Text
+            name: '-7bdcd1f7'
+            widget: string
+          - hint: 'Original text: Diseño de Landing Page, key: -a5e8c14'
+            label: Text
+            name: '-a5e8c14'
+            widget: string
+          - hint: 'Original text: 1 o 2 días, key: 494c9e09'
+            label: Text
+            name: 494c9e09
+            widget: string
+          - hint: 'Original text: 300.000, key: -217f88cb'
+            label: Text
+            name: '-217f88cb'
+            widget: string
+          - hint: 'Original text: Desarrollo de Landing page, key: 6ab5b806'
+            label: Text
+            name: 6ab5b806
+            widget: string
+          - hint: >-
+              Original text: Diseño de sitio web (por página interna), key:
+              -692a5885
+            label: Text
+            name: '-692a5885'
+            widget: string
+          - hint: 'Original text: 250.000, key: -4ddd88f1'
+            label: Text
+            name: '-4ddd88f1'
+            widget: string
+          - hint: >-
+              Original text: Desarrollo de sitio web (por página interna), key:
+              -3c887acb
+            label: Text
+            name: '-3c887acb'
+            widget: string
+          - hint: >-
+              Original text: Migración sitio web a Webflow (por página interna),
+              key: -390efab7
+            label: Text
+            name: '-390efab7'
+            widget: string
+          - hint: 'Original text: Naming: Creación de nombre, key: 1bf42022'
+            label: Text
+            name: 1bf42022
+            widget: string
+          - hint: 'Original text: Diseño de logotipo para proyecto, key: -77807608'
+            label: Text
+            name: '-77807608'
+            widget: string
+          - hint: 'Original text: Diseño submarca de proyecto, key: 3148bd4b'
+            label: Text
+            name: 3148bd4b
+            widget: string
+          - hint: 'Original text: Concepto visual y frase de campaña, key: 4dba9c78'
+            label: Text
+            name: 4dba9c78
+            widget: string
+          - hint: 'Original text: Diseño logotipo para campaña, key: 66e89e26'
+            label: Text
+            name: 66e89e26
+            widget: string
+          - hint: 'Original text: ¿Preguntas?, key: -798dff4b'
+            label: Text
+            name: '-798dff4b'
+            widget: string
+          - hint: 'Original text: Diseño Web, key: -2203e5d7'
+            label: Text
+            name: '-2203e5d7'
+            widget: string
+          - hint: 'Original text: precios predecibles, sin sorpresas, key: 70ca3fcd'
+            label: Text
+            name: 70ca3fcd
+            widget: string
+          - hint: 'Original text: PREGUNTAS FRECUENTES*, key: -21112b7b'
+            label: Text
+            name: '-21112b7b'
+            widget: string
+          - hint: >-
+              Original text: Sobre cómo funciona nuestro modelo de negocio,
+              planes de suscripción, tiempo de entrega de piezas, y más., key:
+              4849bb9
+            label: Text
+            name: 4849bb9
+            widget: text
+          - hint: 'Original text: Contact, key: -64104400'
+            label: Text
+            name: '-64104400'
+            widget: string
+          - hint: 'Original text: ¿Qué es Rola Design?, key: 11e53cab'
+            label: Text
+            name: 11e53cab
+            widget: string
+          - hint: >-
+              Original text: Rola Design es un servicio de suscripción de diseño
+              para empresas y agencias en crecimiento, que te permite acceder a
+              diversas habilidades de diseño con una tarifa transparente y una
+              mensualidad fija., key: 1190b5ec
+            label: Text
+            name: 1190b5ec
+            widget: text
+          - hint: >-
+              Original text: ¿Cómo sé qué plan es el adecuado para mí?, key:
+              -27dc8b41
+            label: Text
+            name: '-27dc8b41'
+            widget: string
+          - hint: >-
+              Original text: ¡Podemos ayudarte a orientarte! Simplemente , key:
+              -25c3c9e9
+            label: Text
+            name: '-25c3c9e9'
+            widget: string
+          - hint: 'Original text: agenda una llamada, key: 580e5e26'
+            label: Text
+            name: 580e5e26
+            widget: string
+          - hint: >-
+              Original text:  con nosotros y lo resolveremos según las
+              necesidades de tu equipo, así como el volumen y la velocidad de su
+              diseño esperado. Encontremos la mejor opción, juntos., key:
+              52b6b469
+            label: Text
+            name: 52b6b469
+            widget: text
+          - hint: >-
+              Original text: ¿Cómo funcionan los planes mensuales All
+              Inclusive?, key: 45a24c1c
+            label: Text
+            name: 45a24c1c
+            widget: string
+          - hint: >-
+              Original text: Describámoslo de esta manera: imagina que contratas
+              a un diseñador o desarrollador a tiempo completo con un salario
+              mensual. Mientras la persona trabaje para ti, puedes solicitar
+              todas tus tareas y proyectos, y trabajará en todas tus solicitudes
+              de una en una (porque la multitarea es un mito)., key: -181ebb48
+            label: Text
+            name: '-181ebb48'
+            widget: text
+          - hint: >-
+              Original text: Básicamente, tú decides qué tareas le delegas a
+              esta persona. Algunas tareas se realizarán en 30 minutos y algunos
+              proyectos pueden demorar varios días o semanas. El problema es que
+              este empleado tiene un número limitado de habilidades porque nadie
+              es bueno en todo., key: 61e98afa
+            label: Text
+            name: 61e98afa
+            widget: text
+          - hint: >-
+              Original text: Con Rola Design, tienes acceso a un equipo de
+              diseñadores con experiecia en diversas especialidades. Nos hacemos
+              cargo de todas tus solicitudes y trabajamos en ellas una tras
+              otra, mientras que tu gerente de proyecto supervisa todo y se
+              asegura de que la persona adecuada haga el trabajo., key: 4c799070
+            label: Text
+            name: 4c799070
+            widget: text
+          - hint: >-
+              Original text: ¿Qué significa cuando hablan de piezas ilimitadas,
+              revisiones ilimitadas y marcas ilimitadas?, key: 6faf049b
+            label: Text
+            name: 6faf049b
+            widget: text
+          - hint: >-
+              Original text: Sin importar si tienes 1 o 10 marcas o clientes,
+              diseñamos todas las piezas que necesites y se , key: -1f1e1a16
+            label: Text
+            name: '-1f1e1a16'
+            widget: text
+          - hint: >-
+              Original text: producirán y se entregarán una por una de manera
+              secuencial, key: -40176a87
+            label: Text
+            name: '-40176a87'
+            widget: string
+          - hint: >-
+              Original text: . Esto significa que el límite de piezas que te
+              entregamos al mes está demarcado por la cantidad de piezas que
+              podemos producir de esta manera secuencial (dependiedo de la
+              complejidad de la solicitud)., key: -1c34738c
+            label: Text
+            name: '-1c34738c'
+            widget: text
+          - hint: >-
+              Original text: (Ej. 88 post de redes sociales al mes, ya que en
+              promedio entregamos 4 post al día)., key: 1ffe0072
+            label: Text
+            name: 1ffe0072
+            widget: string
+          - hint: >-
+              Original text: Si tu carga de trabajo es mayor, podemos ofrecerte
+              cargas de trabajo adicionales , key: 52c3b50c
+            label: Text
+            name: 52c3b50c
+            widget: string
+          - hint: 'Original text: o talentos, key: 4fb92061'
+            label: Text
+            name: 4fb92061
+            widget: string
+          - hint: >-
+              Original text: , con los cuales podrás solicitar que se entreguen
+              más de una pieza simultaneamente, con un costo adicional., key:
+              -5e25a45c
+            label: Text
+            name: '-5e25a45c'
+            widget: text
+          - hint: >-
+              Original text: En otras palabras, usando el ejemplo de la pregunta
+              anterior, el plan All Inclusive es muy parecido a cuando contratas
+              a un diseñador inhouse. Por cada , key: 7e528795
+            label: Text
+            name: '7e528795'
+            widget: text
+          - hint: 'Original text: talento, key: -5c0592fd'
+            label: Text
+            name: '-5c0592fd'
+            widget: string
+          - hint: >-
+              Original text: , te entregamos tantas piezas al mes, como lo haría
+              1 diseñador inhouse, sumando la calidad, eficiencia, experiencia y
+              solidez de un equipo multidisciplinario., key: 5d0b9bf7
+            label: Text
+            name: 5d0b9bf7
+            widget: text
+          - hint: >-
+              Original text: ¿Hay un límite en la cantidad de solicitudes que
+              puedo pedir?, key: -55862f8
+            label: Text
+            name: '-55862f8'
+            widget: string
+          - hint: >-
+              Original text: Una vez te inscribes, puedes agregar tantas
+              solicitudes de diseño a su cola como desees, y , key: -38e56f4e
+            label: Text
+            name: '-38e56f4e'
+            widget: text
+          - hint: 'Original text: se entregarán una por una, key: -58d8e7c8'
+            label: Text
+            name: '-58d8e7c8'
+            widget: string
+          - hint: 'Original text: ., key: 2e'
+            label: Text
+            name: 2e
+            widget: string
+          - hint: >-
+              Original text: ¿Qué tan rápido recibiré mis diseños?, key:
+              -6570e901
+            label: Text
+            name: '-6570e901'
+            widget: string
+          - hint: >-
+              Original text: Depende de la complejidad de la solicitud. Una
+              pieza de redes sociales se entrega en pocas horas, o un landing
+              page en uno o dos días., key: -7c620240
+            label: Text
+            name: '-7c620240'
+            widget: text
+          - hint: >-
+              Original text: En promedio, la mayoría de las solicitudes se
+              completan en solo dos días o menos. Sin embargo, las solicitudes
+              más complejas pueden tardar más., key: 5adf298b
+            label: Text
+            name: 5adf298b
+            widget: text
+          - hint: 'Original text: *Trabajamos de , key: -6ab3d2ff'
+            label: Text
+            name: '-6ab3d2ff'
+            widget: string
+          - hint: >-
+              Original text: lunes a viernes de 9:00 am a 6:00 p.m, key:
+              -129db7ea
+            label: Text
+            name: '-129db7ea'
+            widget: string
+          - hint: 'Original text: , hora Bogotá (UTC -5)., key: 89547a9'
+            label: Text
+            name: 89547a9
+            widget: string
+          - hint: >-
+              Original text: ¿Qué incluye el servicio de mantenimiento de sitios
+              web?, key: 34c38d3e
+            label: Text
+            name: 34c38d3e
+            widget: string
+          - hint: >-
+              Original text: Si tienes un sitio web el cual quieres crecer y
+              adaptar al mundo de hoy, te ofrecemos la capacidad de rediseñar y
+              actualizar tu sitio web de manera constante para que tenga un
+              look, contenido y funcionalidad que se ajustan a tus objetivos de
+              negocio del 2023 hacia adelante., key: -7c62a7ab
+            label: Text
+            name: '-7c62a7ab'
+            widget: text
+          - hint: >-
+              Original text: Contamos con tecnología de punta que hará que tu
+              sitio web tenga tiempos de respuesta súper rápidos, las mejores
+              prácticas de UX/UI para responder de la mejor forma posible a tus
+              objetivos de negocio., key: -32fba77f
+            label: Text
+            name: '-32fba77f'
+            widget: text
+          - hint: 'Original text: ¿Quiénes son lxs diseñadorxs?, key: 4951532'
+            label: Text
+            name: '4951532'
+            widget: string
+          - hint: >-
+              Original text: Somos diseñadorxs y creativxs, en su mayoría
+              mujeres, ofreciendo servicios de diseño desde Bogotá, Colombia.
+              Bogotá es reconocido como uno de los mejores hubs de diseño de
+              América Latina. Nuestro objetivo es contar con lxs mejores
+              diseñadorxs de la ciudad y de la región., key: -6639c82
+            label: Text
+            name: '-6639c82'
+            widget: text
+          - hint: >-
+              Original text: ¿Por qué no contrataría a un diseñador a tiempo
+              completo? ¿Cuál es la diferencia?, key: 92e127d
+            label: Text
+            name: 92e127d
+            widget: string
+          - hint: >-
+              Original text: ¡Buena pregunta! Para empezar, el costo anual de un
+              diseñador de alto nivel de tiempo completo es bastaste alto. Si
+              contratas según el modelo freelance por prestación de servicios,
+              hay que tener en cuenta los costos de los aportes, y riesgos a
+              nivel de responsabilidad contractual., key: 777f9033
+            label: Text
+            name: 777f9033
+            widget: text
+          - hint: >-
+              Original text: Aparte de eso, este diseñador puede que no sea
+              experto en todas las areas de diseño que necesita tu empresa, o es
+              posible que no siempre tengas suficiente trabajo para mantenerlos
+              ocupados en todo momento, por lo que debe pagar por el tiempo que
+              no puede utilizar., key: -685cefe1
+            label: Text
+            name: '-685cefe1'
+            widget: text
+          - hint: >-
+              Original text: Con nuestro plan mensual, cuentas con un equipo
+              integral de diseñadores y programadores expertos en diferentes
+              áreas. Adicional, te liberas de los riesgos y la carga que implica
+              contratar un freelance. Con nuestro modelo, puedes pausar y
+              reanudar tu suscripción con la frecuencia que necesites para
+              asegurarse de que solo nos pagas cuando tienes trabajo
+              disponible., key: 38b99fac
+            label: Text
+            name: 38b99fac
+            widget: text
+          - hint: 'Original text: somos Tu equipo de diseño, key: -9383079'
+            label: Text
+            name: '-9383079'
+            widget: string
+          - hint: >-
+              Original text: Estamos reinventando cómo se hace y se ejecuta el
+              diseño, a escala., key: 4617ec40
+            label: Text
+            name: 4617ec40
+            widget: string
+          - hint: >-
+              Original text: Used by the world's most average companies, key:
+              -4c8ca5ae
+            label: Text
+            name: '-4c8ca5ae'
+            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -2431,35 +2926,25 @@ collections:
             label: Link
             name: 2f
             widget: string
-          - hint: 'Original link: #how_it_works, key: 1b531a20'
+          - hint: 'Original link: /diseno-digital, key: -5886b32e'
             label: Link
-            name: 1b531a20
+            name: '-5886b32e'
             widget: string
-          - hint: 'Original link: #work, key: 224fdb4'
+          - hint: 'Original link: /por-que-rola, key: 4652ebe7'
             label: Link
-            name: 224fdb4
+            name: 4652ebe7
             widget: string
-          - hint: 'Original link: #capabilities, key: 433ef359'
+          - hint: 'Original link: /precios, key: -a88122'
             label: Link
-            name: 433ef359
-            widget: string
-          - hint: 'Original link: #pricing, key: 2101c243'
-            label: Link
-            name: 2101c243
+            name: '-a88122'
             widget: string
           - hint: 'Original link: /forms/contacto, key: -715203e2'
             label: Link
             name: '-715203e2'
             widget: string
-          - hint: >-
-              Original link: https://meetings.hubspot.com/katherine-lizarazo,
-              key: 4eb0bf58
+          - hint: 'Original link: #, key: 23'
             label: Link
-            name: 4eb0bf58
-            widget: string
-          - hint: 'Original link: https://www.hellomachine.co/, key: -12c7f830'
-            label: Link
-            name: '-12c7f830'
+            name: '23'
             widget: string
           - hint: 'Original link: https://www.instagram.com/rola_dsgn, key: -5e7e326d'
             label: Link
@@ -2483,13 +2968,35 @@ collections:
             label: Link
             name: '95466e8'
             widget: string
-          - hint: 'Original link: #, key: 23'
-            label: Link
-            name: '23'
-            widget: string
           - hint: 'Original link: http://finsweet.com, key: 9cd90ea'
             label: Link
             name: 9cd90ea
+            widget: string
+          - hint: 'Original link: #pricing-digital, key: -20695f72'
+            label: Link
+            name: '-20695f72'
+            widget: string
+          - hint: >-
+              Original link: https://meetings.hubspot.com/katherine-lizarazo,
+              key: 4eb0bf58
+            label: Link
+            name: 4eb0bf58
+            widget: string
+          - hint: 'Original link: #pricing-sm, key: bae2a24'
+            label: Link
+            name: bae2a24
+            widget: string
+          - hint: 'Original link: #pricing-wd, key: bae2a97'
+            label: Link
+            name: bae2a97
+            widget: string
+          - hint: 'Original link: /diseno-para-redes-sociales, key: 155cef30'
+            label: Link
+            name: 155cef30
+            widget: string
+          - hint: 'Original link: /diseno-web, key: -225d68f2'
+            label: Link
+            name: '-225d68f2'
             widget: string
       - label: Images
         name: images
@@ -2591,7 +3098,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-242556e0'
+            name: '-275fda1'
             widget: object
             fields:
               - name: url
@@ -2604,7 +3111,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-22707e41'
+            name: '-1e45eab1'
             widget: object
             fields:
               - name: url
@@ -2617,7 +3124,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-20bba5a2'
+            name: '-1e8c6036'
             widget: object
             fields:
               - name: url
@@ -2630,7 +3137,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-1f06cd03'
+            name: '-1e7e48b5'
             widget: object
             fields:
               - name: url
@@ -2643,7 +3150,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-67ee07bf'
+            name: '-32f03ca5'
             widget: object
             fields:
               - name: url
@@ -2656,7 +3163,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3ef9b8d7'
+            name: 5a177790
             widget: object
             fields:
               - name: url
@@ -2669,20 +3176,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3d44e038'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 56a3018e
+            name: '-3b3ab623'
             widget: object
             fields:
               - name: url
@@ -2708,20 +3202,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-69a2e05e'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-6b57b8fd'
+            name: '-64845681'
             widget: object
             fields:
               - name: url
@@ -2747,33 +3228,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-722b1b79'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-38681467'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-73dff418'
+            name: '-3ef9b8d7'
             widget: object
             fields:
               - name: url
@@ -2799,7 +3254,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-34fe6329'
+            name: '-69a2e05e'
             widget: object
             fields:
               - name: url
@@ -2812,7 +3267,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-3194b1eb'
+            name: '-67ee07bf'
             widget: object
             fields:
               - name: url
@@ -2825,20 +3280,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-33498a8a'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-64845681'
+            name: '-2fdfd94c'
             widget: object
             fields:
               - name: url
@@ -2864,19 +3306,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-66392f20'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: 6b715227
             widget: object
             fields:
@@ -2890,7 +3319,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 7c35dd6d
+            name: 3006d8f7
             widget: object
             fields:
               - name: url
@@ -2903,7 +3332,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 550be0d5
+            name: '-2a70d3ed'
             widget: object
             fields:
               - name: url
@@ -2916,20 +3345,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-2a59b7c6'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 22fa8129
+            name: '-51ebeb17'
             widget: object
             fields:
               - name: url
@@ -2956,32 +3372,6 @@ collections:
                 required: false
           - label: Image
             name: '-6113c19b'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 47cc9e7f
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-10d5e724'
             widget: object
             fields:
               - name: url
@@ -3060,6 +3450,188 @@ collections:
                 required: false
           - label: Image
             name: '-1c43dadf'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-58aa5d0d'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 3781b0f9
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 47cc9e7f
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-6bd3bb5f'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-25cf0322'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 7054b154
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 5affaae0
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-450ef614'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 57717f22
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 5e8dd69e
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 5531a0c2
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 176b06a6
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 1a2bb762
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-10d5e724'
             widget: object
             fields:
               - name: url
