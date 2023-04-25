@@ -196,9 +196,9 @@ collections:
             label: Text
             name: 3f62e637
             widget: text
-          - hint: 'Original text: Ver nuestros servicios, key: -5b76faf'
+          - hint: 'Original text: Ver precios, key: 556cfa50'
             label: Text
-            name: '-5b76faf'
+            name: 556cfa50
             widget: string
           - hint: 'Original text: algunos de , key: 19d1a0f8'
             label: Text
@@ -1530,10 +1530,6 @@ collections:
             label: Text
             name: 3056189e
             widget: text
-          - hint: 'Original text: Ver precios, key: 556cfa50'
-            label: Text
-            name: 556cfa50
-            widget: string
           - hint: >-
               Original text: Nuestro modelo mensual All Inclusive y planes de
               precio por pieza de Rola Design, garantizan una alta eficiencia y
@@ -2614,10 +2610,6 @@ collections:
             label: Text
             name: '-798dff4b'
             widget: string
-          - hint: 'Original text: Diseño Web, key: -2203e5d7'
-            label: Text
-            name: '-2203e5d7'
-            widget: string
           - hint: 'Original text: precios predecibles, sin sorpresas, key: 70ca3fcd'
             label: Text
             name: 70ca3fcd
@@ -2908,11 +2900,9 @@ collections:
             label: Text
             name: 4617ec40
             widget: string
-          - hint: >-
-              Original text: Used by the world's most average companies, key:
-              -4c8ca5ae
+          - hint: 'Original text: algunos de, key: -28751bd8'
             label: Text
-            name: '-4c8ca5ae'
+            name: '-28751bd8'
             widget: string
       - label: Links
         name: links
@@ -2989,14 +2979,6 @@ collections:
           - hint: 'Original link: #pricing-wd, key: bae2a97'
             label: Link
             name: bae2a97
-            widget: string
-          - hint: 'Original link: /diseno-para-redes-sociales, key: 155cef30'
-            label: Link
-            name: 155cef30
-            widget: string
-          - hint: 'Original link: /diseno-web, key: -225d68f2'
-            label: Link
-            name: '-225d68f2'
             widget: string
       - label: Images
         name: images
