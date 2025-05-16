@@ -1,4 +1,4 @@
-const markdownIt = require("markdown-it");
+//const markdownIt = require("markdown-it");
 
     // Add within your config module
     const md = new markdownIt({
