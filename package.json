@@ -13,8 +13,8 @@
   },
   "scripts": {
     "optimize": "node ./_utils/scripts/optimize-assets.js",
-    "preserve": "npm run optimize",
-    "prebuild": "npm run optimize",
+    "preserve": "echo 'skip optimize'",
+    "prebuild": "echo 'skip optimize'",
     "serve": "npx @11ty/eleventy --serve",
     "build": "npx @11ty/eleventy",
     "local-backend": "npx netlify-cms-proxy-server",
